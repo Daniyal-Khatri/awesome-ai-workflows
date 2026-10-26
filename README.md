@@ -95,6 +95,49 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Fliki](https://fliki.ai)** — turn the post into a voiced video
 5. **[Make](https://www.make.com)** — auto-share new posts to your apps
 
+### 📺 Faceless YouTube Stack
+
+1. **[InVideo AI](https://invideo.io)** — make the full video from one idea
+2. **[Fliki](https://fliki.ai)** — add a real-sounding voice
+3. **[CapCut](https://www.capcut.com)** — cut and polish the video
+4. **[Ideogram](https://ideogram.ai)** — thumbnail with clear text
+
+### 🛒 Online Seller Stack
+
+1. **[Krea AI](https://www.krea.ai)** — bright product photos
+2. **[Canva AI](https://www.canva.com)** — listing art and banners
+3. **[Copy.ai](https://www.copy.ai)** — product descriptions that sell
+4. **[Durable](https://durable.com)** — your own shop website
+5. **[Buffer](https://buffer.com)** — schedule promo posts
+
+### 📱 App Builder Stack
+
+1. **[Uizard](https://uizard.io)** — turn the idea into an app mockup
+2. **[Figma](https://www.figma.com)** — polish the design with your team
+3. **[v0](https://v0.dev)** — turn the design into web pages
+4. **[Cursor](https://cursor.com)** — build the full app with AI
+5. **[Replit](https://replit.com)** — test and run it in the browser
+
+### 🤖 Customer Support Bot Stack
+
+1. **[Chatbase](https://www.chatbase.co)** — build a bot from your help files
+2. **[Voiceflow](https://www.voiceflow.com)** — test the chat flows
+3. **[Zapier](https://zapier.com)** — send hard questions to your sheet or email
+
+### 📋 Meeting-to-Action Stack
+
+1. **[Otter.ai](https://otter.ai)** — record the meeting and write every word
+2. **[Fireflies.ai](https://fireflies.ai)** — search any topic across past meetings
+3. **[Taskade](https://www.taskade.com)** — turn notes into tasks with owners
+4. **[Make](https://www.make.com)** — auto-send the summary to your apps
+
+### 🧑‍💻 Freelancer Stack
+
+1. **[Framer](https://www.framer.com)** — portfolio website that wins clients
+2. **[Chatbase](https://www.chatbase.co)** — a bot that answers client questions
+3. **[Simplified](https://simplified.com)** — posts that market your services
+4. **[Zapier](https://zapier.com)** — save new leads to a sheet by itself
+
 ## 🧰 Tools by Category
 
 ### Writing & Chat
