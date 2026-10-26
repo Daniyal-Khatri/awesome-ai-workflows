@@ -330,11 +330,11 @@
     "pricing_checked": "2026-10-26"
   },
   {
-    "name": "NotebookLM",
+    "name": "Gemini Notebook",
     "category": "Research",
-    "url": "https://notebooklm.google.com",
+    "url": "https://notebook.google.com",
     "pricing": "Freemium",
-    "description": "Answers only from your own files (now Gemini Notebook)",
+    "description": "Answers only from your own files",
     "use": "Studying from set documents",
     "pricing_url": "",
     "pricing_checked": "2026-10-26"
