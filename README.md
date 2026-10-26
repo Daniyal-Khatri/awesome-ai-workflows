@@ -566,12 +566,31 @@ The full tool list also lives as open data — free to use in your own projects:
 - [`data/tools.json`](data/tools.json)
 - [`data/tools.csv`](data/tools.csv)
 
+## 🏅 Listed Here? Show It
+
+Is your tool on this list? Add the badge to your README or website — it links back here:
+
+[![Listed on Awesome AI Workflows](https://img.shields.io/badge/Listed_on-Awesome_AI_Workflows-8A2BE2?style=flat&logo=github)](https://github.com/Daniyal-Khatri/awesome-ai-workflows)
+
+**Markdown — copy and paste:**
+
+```markdown
+[![Listed on Awesome AI Workflows](https://img.shields.io/badge/Listed_on-Awesome_AI_Workflows-8A2BE2?style=flat&logo=github)](https://github.com/Daniyal-Khatri/awesome-ai-workflows)
+```
+
+**HTML — copy and paste:**
+
+```html
+<a href="https://github.com/Daniyal-Khatri/awesome-ai-workflows"><img src="https://img.shields.io/badge/Listed_on-Awesome_AI_Workflows-8A2BE2?style=flat&logo=github" alt="Listed on Awesome AI Workflows"></a>
+```
+
 ## 🤝 Contributing
 
 Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request, please.
 
 ## 📅 Changelog
 
+- **October 26, 2026** — "Listed on" badge added — tools on the list can show it on their own pages.
 - **October 26, 2026** — Recipe cards finished: all 17 stacks now include the copy-paste prompt for every step.
 - **October 26, 2026** — Batch 2: beginner roadmap, just-the-5-best box, cost legend (🆓/🔓), our rules and how-we-choose numbers in print, copy-paste recipe cards on 5 stacks.
 - **October 26, 2026** — Reader upgrades: start-by-goal box, first-week 10-tools shelf, level tags on all stacks, free-plan catch lines, full contents index.
