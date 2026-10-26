@@ -1,0 +1,13 @@
+name,category,website,pricing,description,best_for
+ChatGPT,Writing,https://chatgpt.com,Freemium,General AI chat writing and coding help,Everyday writing and brainstorming
+Claude,Writing,https://claude.ai,Freemium,Long-form writing and careful reasoning,Articles docs and analysis
+Notion AI,Writing,https://www.notion.com,Freemium,AI inside your notes and docs,Summaries and workspace writing
+Perplexity,Research,https://www.perplexity.ai,Freemium,AI search with cited sources,Fast sourced research
+Midjourney,Image,https://www.midjourney.com,Paid,High-end AI image generation,Art thumbnails and product visuals
+Recraft AI,Image,https://www.recraft.ai,Freemium,Design-focused image generation,Vector art and brand assets
+Runway Gen-3,Video,https://runwayml.com,Freemium,Text/image to video generation,Cinematic clips and ads
+Kling AI,Video,https://klingai.com,Freemium,Realistic AI video generation,Short-form and social video
+Cursor,Code,https://cursor.com,Freemium,AI-first code editor,Building full projects with AI
+GitHub Copilot,Code,https://github.com/features/copilot,Paid,AI pair programmer in your editor,Autocomplete and boilerplate
+ElevenLabs,Audio,https://elevenlabs.io,Freemium,Realistic AI voice generation,Voiceovers and narration
+Suno AI,Audio,https://suno.com,Freemium,Full songs from a text prompt,Music for videos and projects
