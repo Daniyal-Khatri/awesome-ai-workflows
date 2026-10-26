@@ -1,0 +1,31 @@
+name: Validate data
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Validate the canonical data (data/tools.json)
+        run: python3 scripts/validate.py
+
+      - name: Check generated files match the source
+        run: |
+          python3 scripts/generate.py
+          git diff --exit-code
+
+      - name: Check internal links in the docs
+        run: python3 scripts/check_links.py
