@@ -1,1 +1,242 @@
-[{"best_for":"Everyday writing and brainstorming","category":"Writing","description":"General AI chat, writing and coding help","name":"ChatGPT","pricing":"Freemium","website":"https://chatgpt.com"},{"best_for":"Articles, docs and analysis","category":"Writing","description":"Long-form writing and careful reasoning","name":"Claude","pricing":"Freemium","website":"https://claude.ai"},{"best_for":"Summaries and workspace writing","category":"Writing","description":"AI inside your notes and docs","name":"Notion AI","pricing":"Freemium","website":"https://www.notion.com"},{"best_for":"Fast, sourced research","category":"Research","description":"AI search with cited sources","name":"Perplexity","pricing":"Freemium","website":"https://www.perplexity.ai"},{"best_for":"Art, thumbnails and product visuals","category":"Image","description":"High-end AI image generation","name":"Midjourney","pricing":"Paid","website":"https://www.midjourney.com"},{"best_for":"Vector art and brand assets","category":"Image","description":"Design-focused image generation","name":"Recraft AI","pricing":"Freemium","website":"https://www.recraft.ai"},{"best_for":"Cinematic clips and ads","category":"Video","description":"Text/image to video generation","name":"Runway Gen-3","pricing":"Freemium","website":"https://runwayml.com"},{"best_for":"Short-form and social video","category":"Video","description":"Realistic AI video generation","name":"Kling AI","pricing":"Freemium","website":"https://klingai.com"},{"best_for":"Building full projects with AI","category":"Code","description":"AI-first code editor","name":"Cursor","pricing":"Freemium","website":"https://cursor.com"},{"best_for":"Autocomplete and boilerplate","category":"Code","description":"AI pair programmer in your editor","name":"GitHub Copilot","pricing":"Paid","website":"https://github.com/features/copilot"},{"best_for":"Voiceovers and narration","category":"Audio","description":"Realistic AI voice generation","name":"ElevenLabs","pricing":"Freemium","website":"https://elevenlabs.io"},{"best_for":"Music for videos and projects","category":"Audio","description":"Full songs from a text prompt","name":"Suno AI","pricing":"Freemium","website":"https://suno.com"}]
+[
+  {
+    "name": "ChatGPT",
+    "category": "Writing",
+    "website": "https://chatgpt.com",
+    "pricing": "Freemium",
+    "description": "AI chat for writing and coding help",
+    "best_for": "Everyday writing and new ideas"
+  },
+  {
+    "name": "Claude",
+    "category": "Writing",
+    "website": "https://claude.ai",
+    "pricing": "Freemium",
+    "description": "Long writing and deep thinking",
+    "best_for": "Articles, docs and analysis"
+  },
+  {
+    "name": "Notion AI",
+    "category": "Writing",
+    "website": "https://www.notion.com",
+    "pricing": "Freemium",
+    "description": "AI inside your notes and docs",
+    "best_for": "Short summaries and clean notes"
+  },
+  {
+    "name": "Grammarly",
+    "category": "Writing",
+    "website": "https://www.grammarly.com",
+    "pricing": "Freemium",
+    "description": "Fixes grammar and tone",
+    "best_for": "Clean, pro writing"
+  },
+  {
+    "name": "Copy.ai",
+    "category": "Writing",
+    "website": "https://www.copy.ai",
+    "pricing": "Freemium",
+    "description": "Short marketing copy, fast",
+    "best_for": "Ads and social posts"
+  },
+  {
+    "name": "Writesonic",
+    "category": "Writing",
+    "website": "https://writesonic.com",
+    "pricing": "Freemium",
+    "description": "Blog posts and marketing text",
+    "best_for": "Fast blog drafts"
+  },
+  {
+    "name": "Perplexity",
+    "category": "Research",
+    "website": "https://www.perplexity.ai",
+    "pricing": "Freemium",
+    "description": "AI search that shows its sources",
+    "best_for": "Fast research you can trust"
+  },
+  {
+    "name": "Elicit",
+    "category": "Research",
+    "website": "https://elicit.com",
+    "pricing": "Freemium",
+    "description": "Searches real research papers",
+    "best_for": "Students and researchers"
+  },
+  {
+    "name": "Consensus",
+    "category": "Research",
+    "website": "https://consensus.app",
+    "pricing": "Freemium",
+    "description": "Answers from real studies",
+    "best_for": "Science questions"
+  },
+  {
+    "name": "Midjourney",
+    "category": "Image",
+    "website": "https://www.midjourney.com",
+    "pricing": "Paid",
+    "description": "Top AI pictures",
+    "best_for": "Art, thumbnails and product photos"
+  },
+  {
+    "name": "Recraft AI",
+    "category": "Image",
+    "website": "https://www.recraft.ai",
+    "pricing": "Freemium",
+    "description": "Pictures for design work",
+    "best_for": "Vector art and brand work"
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "Image",
+    "website": "https://leonardo.ai",
+    "pricing": "Freemium",
+    "description": "AI art and game assets",
+    "best_for": "Game art and images"
+  },
+  {
+    "name": "Ideogram",
+    "category": "Image",
+    "website": "https://ideogram.ai",
+    "pricing": "Freemium",
+    "description": "Pictures with clear text",
+    "best_for": "Posters and logos with words"
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "Image",
+    "website": "https://firefly.adobe.com",
+    "pricing": "Freemium",
+    "description": "Safe AI images for brands",
+    "best_for": "Work art you can sell"
+  },
+  {
+    "name": "Canva AI",
+    "category": "Image",
+    "website": "https://www.canva.com",
+    "pricing": "Freemium",
+    "description": "Designs with AI help",
+    "best_for": "Posters and social posts"
+  },
+  {
+    "name": "Runway Gen-3",
+    "category": "Video",
+    "website": "https://runwayml.com",
+    "pricing": "Freemium",
+    "description": "Make videos from text or pictures",
+    "best_for": "Film-style clips and ads"
+  },
+  {
+    "name": "Kling AI",
+    "category": "Video",
+    "website": "https://klingai.com",
+    "pricing": "Freemium",
+    "description": "Real-looking AI videos",
+    "best_for": "Short social videos"
+  },
+  {
+    "name": "CapCut",
+    "category": "Video",
+    "website": "https://www.capcut.com",
+    "pricing": "Freemium",
+    "description": "Edit videos with AI help",
+    "best_for": "TikTok and Reels editing"
+  },
+  {
+    "name": "Pika",
+    "category": "Video",
+    "website": "https://pika.art",
+    "pricing": "Freemium",
+    "description": "Fun short AI videos",
+    "best_for": "Creative clips"
+  },
+  {
+    "name": "HeyGen",
+    "category": "Video",
+    "website": "https://www.heygen.com",
+    "pricing": "Freemium",
+    "description": "Videos with an AI face that talks",
+    "best_for": "Talking-head videos"
+  },
+  {
+    "name": "Lumen5",
+    "category": "Video",
+    "website": "https://lumen5.com",
+    "pricing": "Freemium",
+    "description": "Turns blog posts into videos",
+    "best_for": "Promo videos"
+  },
+  {
+    "name": "Cursor",
+    "category": "Code",
+    "website": "https://cursor.com",
+    "pricing": "Freemium",
+    "description": "Code editor with AI",
+    "best_for": "Building full projects"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "Code",
+    "website": "https://github.com/features/copilot",
+    "pricing": "Paid",
+    "description": "AI help in your code editor",
+    "best_for": "Fast code suggestions"
+  },
+  {
+    "name": "Replit",
+    "category": "Code",
+    "website": "https://replit.com",
+    "pricing": "Freemium",
+    "description": "Build apps in your browser",
+    "best_for": "Beginners and quick apps"
+  },
+  {
+    "name": "v0",
+    "category": "Code",
+    "website": "https://v0.dev",
+    "pricing": "Freemium",
+    "description": "Makes web pages from words",
+    "best_for": "Fast page designs"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "Audio",
+    "website": "https://elevenlabs.io",
+    "pricing": "Freemium",
+    "description": "Real-sounding AI voices",
+    "best_for": "Voiceovers and narration"
+  },
+  {
+    "name": "Suno AI",
+    "category": "Audio",
+    "website": "https://suno.com",
+    "pricing": "Freemium",
+    "description": "Full songs from a text prompt",
+    "best_for": "Music for videos"
+  },
+  {
+    "name": "Murf AI",
+    "category": "Audio",
+    "website": "https://murf.ai",
+    "pricing": "Freemium",
+    "description": "Studio-style voiceovers",
+    "best_for": "Ads and lessons"
+  },
+  {
+    "name": "Udio",
+    "category": "Audio",
+    "website": "https://www.udio.com",
+    "pricing": "Freemium",
+    "description": "Songs from a text prompt",
+    "best_for": "New music ideas"
+  },
+  {
+    "name": "Descript",
+    "category": "Audio",
+    "website": "https://www.descript.com",
+    "pricing": "Freemium",
+    "description": "Edit audio by editing text",
+    "best_for": "Podcasts and interviews"
+  }
+]

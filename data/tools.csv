@@ -1,13 +1,31 @@
 name,category,website,pricing,description,best_for
-ChatGPT,Writing,https://chatgpt.com,Freemium,General AI chat writing and coding help,Everyday writing and brainstorming
-Claude,Writing,https://claude.ai,Freemium,Long-form writing and careful reasoning,Articles docs and analysis
-Notion AI,Writing,https://www.notion.com,Freemium,AI inside your notes and docs,Summaries and workspace writing
-Perplexity,Research,https://www.perplexity.ai,Freemium,AI search with cited sources,Fast sourced research
-Midjourney,Image,https://www.midjourney.com,Paid,High-end AI image generation,Art thumbnails and product visuals
-Recraft AI,Image,https://www.recraft.ai,Freemium,Design-focused image generation,Vector art and brand assets
-Runway Gen-3,Video,https://runwayml.com,Freemium,Text/image to video generation,Cinematic clips and ads
-Kling AI,Video,https://klingai.com,Freemium,Realistic AI video generation,Short-form and social video
-Cursor,Code,https://cursor.com,Freemium,AI-first code editor,Building full projects with AI
-GitHub Copilot,Code,https://github.com/features/copilot,Paid,AI pair programmer in your editor,Autocomplete and boilerplate
-ElevenLabs,Audio,https://elevenlabs.io,Freemium,Realistic AI voice generation,Voiceovers and narration
-Suno AI,Audio,https://suno.com,Freemium,Full songs from a text prompt,Music for videos and projects
+ChatGPT,Writing,https://chatgpt.com,Freemium,AI chat for writing and coding help,Everyday writing and new ideas
+Claude,Writing,https://claude.ai,Freemium,Long writing and deep thinking,Articles docs and analysis
+Notion AI,Writing,https://www.notion.com,Freemium,AI inside your notes and docs,Short summaries and clean notes
+Grammarly,Writing,https://www.grammarly.com,Freemium,Fixes grammar and tone,Clean pro writing
+Copy.ai,Writing,https://www.copy.ai,Freemium,Short marketing copy fast,Ads and social posts
+Writesonic,Writing,https://writesonic.com,Freemium,Blog posts and marketing text,Fast blog drafts
+Perplexity,Research,https://www.perplexity.ai,Freemium,AI search that shows its sources,Fast research you can trust
+Elicit,Research,https://elicit.com,Freemium,Searches real research papers,Students and researchers
+Consensus,Research,https://consensus.app,Freemium,Answers from real studies,Science questions
+Midjourney,Image,https://www.midjourney.com,Paid,Top AI pictures,Art thumbnails and product photos
+Recraft AI,Image,https://www.recraft.ai,Freemium,Pictures for design work,Vector art and brand work
+Leonardo AI,Image,https://leonardo.ai,Freemium,AI art and game assets,Game art and images
+Ideogram,Image,https://ideogram.ai,Freemium,Pictures with clear text,Posters and logos with words
+Adobe Firefly,Image,https://firefly.adobe.com,Freemium,Safe AI images for brands,Work art you can sell
+Canva AI,Image,https://www.canva.com,Freemium,Designs with AI help,Posters and social posts
+Runway Gen-3,Video,https://runwayml.com,Freemium,Make videos from text or pictures,Film-style clips and ads
+Kling AI,Video,https://klingai.com,Freemium,Real-looking AI videos,Short social videos
+CapCut,Video,https://www.capcut.com,Freemium,Edit videos with AI help,TikTok and Reels editing
+Pika,Video,https://pika.art,Freemium,Fun short AI videos,Creative clips
+HeyGen,Video,https://www.heygen.com,Freemium,Videos with an AI face that talks,Talking-head videos
+Lumen5,Video,https://lumen5.com,Freemium,Turns blog posts into videos,Promo videos
+Cursor,Code,https://cursor.com,Freemium,Code editor with AI,Building full projects
+GitHub Copilot,Code,https://github.com/features/copilot,Paid,AI help in your code editor,Fast code suggestions
+Replit,Code,https://replit.com,Freemium,Build apps in your browser,Beginners and quick apps
+v0,Code,https://v0.dev,Freemium,Makes web pages from words,Fast page designs
+ElevenLabs,Audio,https://elevenlabs.io,Freemium,Real-sounding AI voices,Voiceovers and narration
+Suno AI,Audio,https://suno.com,Freemium,Full songs from a text prompt,Music for videos
+Murf AI,Audio,https://murf.ai,Freemium,Studio-style voiceovers,Ads and lessons
+Udio,Audio,https://www.udio.com,Freemium,Songs from a text prompt,New music ideas
+Descript,Audio,https://www.descript.com,Freemium,Edit audio by editing text,Podcasts and interviews
