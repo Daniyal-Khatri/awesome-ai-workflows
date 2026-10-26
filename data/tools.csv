@@ -1,66 +1,66 @@
-name,category,website,pricing,description,best_for
-ChatGPT,Writing,https://chatgpt.com,Freemium,AI chat for writing and coding help,Everyday writing and new ideas
-Claude,Writing,https://claude.ai,Freemium,Long writing and deep thinking,"Articles, docs and analysis"
-Notion AI,Writing,https://www.notion.com,Freemium,AI inside your notes and docs,Short summaries and clean notes
-Grammarly,Writing,https://www.grammarly.com,Freemium,Fixes grammar and tone,"Clean, pro writing"
-Copy.ai,Writing,https://www.copy.ai,Freemium,"Short marketing copy, fast",Ads and social posts
-Writesonic,Writing,https://writesonic.com,Freemium,Blog posts and marketing text,Fast blog drafts
-Perplexity,Research,https://www.perplexity.ai,Freemium,AI search that shows its sources,Fast research you can trust
-Elicit,Research,https://elicit.com,Freemium,Searches real research papers,Students and researchers
-Consensus,Research,https://consensus.app,Freemium,Answers from real studies,Science questions
-Recraft AI,Image,https://www.recraft.ai,Freemium,Pictures for design work,Vector art and brand work
-Leonardo AI,Image,https://leonardo.ai,Freemium,AI art and game assets,Game art and images
-Ideogram,Image,https://ideogram.ai,Freemium,Pictures with clear text,Posters and logos with words
-Adobe Firefly,Image,https://firefly.adobe.com,Freemium,Safe AI images for brands,Work art you can sell
-Canva AI,Image,https://www.canva.com,Freemium,Designs with AI help,Posters and social posts
-Runway Gen-3,Video,https://runwayml.com,Freemium,Make videos from text or pictures,Film-style clips and ads
-Kling AI,Video,https://klingai.com,Freemium,Real-looking AI videos,Short social videos
-CapCut,Video,https://www.capcut.com,Freemium,Edit videos with AI help,TikTok and Reels editing
-Pika,Video,https://pika.art,Freemium,Fun short AI videos,Creative clips
-HeyGen,Video,https://www.heygen.com,Freemium,Videos with an AI face that talks,Talking-head videos
-Lumen5,Video,https://lumen5.com,Freemium,Turns blog posts into videos,Promo videos
-Cursor,Code,https://cursor.com,Freemium,Code editor with AI,Building full projects
-Replit,Code,https://replit.com,Freemium,Build apps in your browser,Beginners and quick apps
-v0,Code,https://v0.dev,Freemium,Makes web pages from words,Fast page designs
-ElevenLabs,Audio,https://elevenlabs.io,Freemium,Real-sounding AI voices,Voiceovers and narration
-Suno AI,Audio,https://suno.com,Freemium,Full songs from a text prompt,Music for videos
-Murf AI,Audio,https://murf.ai,Freemium,Studio-style voiceovers,Ads and lessons
-Udio,Audio,https://www.udio.com,Freemium,Songs from a text prompt,New music ideas
-Descript,Audio,https://www.descript.com,Freemium,Edit audio by editing text,Podcasts and interviews
-Poe,Writing,https://poe.com,Freemium,Chat with many AI models in one app,Trying many chatbots in one place
-Google AI Studio,Writing,https://aistudio.google.com,Free,Google's free site to test Gemini AI,Testing strong AI models for free
-Mistral Le Chat,Writing,https://chat.mistral.ai,Freemium,Fast AI chat from Europe (now Mistral Vibe),Free chat AI outside US big tech
-Hugging Face,Writing,https://huggingface.co,Freemium,Big free library of AI models and demos,Free open AI models to try
-Rytr,Writing,https://rytr.me,Freemium,Simple AI writer for short texts,"Emails, ads and social posts"
-NotebookLM,Research,https://notebooklm.google.com,Freemium,Answers only from your own files (now Gemini Notebook),Studying from set documents
-SciSpace,Research,https://scispace.com,Freemium,Explains hard science papers in plain words,Reading many research papers
-Research Rabbit,Research,https://www.researchrabbit.ai,Freemium,Finds new papers from papers you like,Finding linked research fast
-Microsoft Designer,Image,https://designer.microsoft.com,Freemium,Makes pictures and ready designs for posts,Free pictures and simple designs
-Playground,Image,https://playground.com,Freemium,Easy AI image maker with ready styles,Quick AI art for free
-Krea AI,Image,https://www.krea.ai,Freemium,Make and fix images with top AI models,Fast image ideas and upscaling
-Microsoft Clipchamp,Video,https://clipchamp.com,Freemium,Simple video editor from Microsoft,Free videos with no watermark
-Kapwing,Video,https://www.kapwing.com,Freemium,Online video editor with AI subtitles,Captioning short videos
-VEED,Video,https://www.veed.io,Freemium,Online video studio with subtitles and AI voices,"Captioned videos, fast"
-InVideo AI,Video,https://invideo.io,Freemium,Makes a full video from one text idea,Faceless videos and ads
-Windsurf,Code,https://windsurf.com,Freemium,Code editor with an AI agent (now Devin Desktop),AI coding with a strong free plan
-Tabnine,Code,https://www.tabnine.com,Freemium,AI code helper that keeps code private,Private code suggestions
-Kiro,Code,https://kiro.dev,Freemium,AI code editor that plans before it builds,"Planned, well-documented coding"
-NaturalReader,Audio,https://www.naturalreaders.com,Freemium,Reads documents and pages out loud,Learning by listening
-AIVA,Audio,https://www.aiva.ai,Freemium,AI music maker in 250+ styles,Background music for videos
-Fliki,Audio,https://fliki.ai,Freemium,Turns text into voiced videos,Voiced videos without recording
-Taskade,Productivity,https://www.taskade.com,Freemium,"Tasks, notes and AI agents in one app",Small teams and job tracking
-Gamma,Presentations,https://gamma.app,Freemium,Builds slide decks from one topic line,Good-looking decks in minutes
-SlidesAI,Presentations,https://www.slidesai.io,Freemium,Turns text into slides in Google Slides,Students and teachers
-Framer,Websites,https://www.framer.com,Freemium,"Build modern websites with AI help, no code",Pretty sites and portfolios
-Durable,Websites,https://durable.com,Freemium,AI builds a small business website in seconds,A website today for small shops
-Simplified,Marketing,https://simplified.com,Freemium,"Writing, design and social posts in one app",All marketing in one place
-Buffer,Marketing,https://buffer.com,Freemium,Plan and post to social media with AI help,Posting to a few social accounts
-Zapier,Automation,https://zapier.com,Freemium,Connects apps so work moves by itself,"Easy automation, no code"
-Make,Automation,https://www.make.com,Freemium,Draw automations and connect apps visually,"Bigger, cheaper automations"
-Otter.ai,Meetings,https://otter.ai,Freemium,Joins meetings and writes down every word,Automatic meeting notes
-Fireflies.ai,Meetings,https://fireflies.ai,Freemium,Records meetings and makes them searchable,Teams with many calls
-tl;dv,Meetings,https://tldv.io,Freemium,Records calls and shares the best clips,Sales and support call clips
-Figma,Design,https://www.figma.com,Freemium,Design apps and websites with your team,Product design with AI help
-Uizard,Design,https://uizard.io,Freemium,Turns ideas or sketches into app designs,Quick app mockups
-Chatbase,Chatbots,https://www.chatbase.co,Freemium,Build a chatbot from your own files,Support chatbot for your site
-Voiceflow,Chatbots,https://www.voiceflow.com,Freemium,Drag-and-drop builder for chat and voice bots,Testing customer chat bots
+name,category,url,pricing,description,use,pricing_url,pricing_checked
+ChatGPT,Writing,https://chatgpt.com,Freemium,AI chat for writing and coding help,Everyday writing and new ideas,,
+Claude,Writing,https://claude.ai,Freemium,Long writing and deep thinking,"Articles, docs and analysis",,
+Notion AI,Writing,https://www.notion.com,Freemium,AI inside your notes and docs,Short summaries and clean notes,,
+Grammarly,Writing,https://www.grammarly.com,Freemium,Fixes grammar and tone,"Clean, pro writing",,
+Copy.ai,Writing,https://www.copy.ai,Freemium,"Short marketing copy, fast",Ads and social posts,,
+Writesonic,Writing,https://writesonic.com,Freemium,Blog posts and marketing text,Fast blog drafts,,
+Perplexity,Research,https://www.perplexity.ai,Freemium,AI search that shows its sources,Fast research you can trust,,
+Elicit,Research,https://elicit.com,Freemium,Searches real research papers,Students and researchers,,
+Consensus,Research,https://consensus.app,Freemium,Answers from real studies,Science questions,,
+Recraft AI,Image,https://www.recraft.ai,Freemium,Pictures for design work,Vector art and brand work,,
+Leonardo AI,Image,https://leonardo.ai,Freemium,AI art and game assets,Game art and images,,
+Ideogram,Image,https://ideogram.ai,Freemium,Pictures with clear text,Posters and logos with words,,
+Adobe Firefly,Image,https://firefly.adobe.com,Freemium,Safe AI images for brands,Work art you can sell,,
+Canva AI,Image,https://www.canva.com,Freemium,Designs with AI help,Posters and social posts,,
+Runway Gen-3,Video,https://runwayml.com,Freemium,Make videos from text or pictures,Film-style clips and ads,,
+Kling AI,Video,https://klingai.com,Freemium,Real-looking AI videos,Short social videos,,
+CapCut,Video,https://www.capcut.com,Freemium,Edit videos with AI help,TikTok and Reels editing,,
+Pika,Video,https://pika.art,Freemium,Fun short AI videos,Creative clips,,
+HeyGen,Video,https://www.heygen.com,Freemium,Videos with an AI face that talks,Talking-head videos,,
+Lumen5,Video,https://lumen5.com,Freemium,Turns blog posts into videos,Promo videos,,
+Cursor,Code,https://cursor.com,Freemium,Code editor with AI,Building full projects,,
+Replit,Code,https://replit.com,Freemium,Build apps in your browser,Beginners and quick apps,,
+v0,Code,https://v0.dev,Freemium,Makes web pages from words,Fast page designs,,
+ElevenLabs,Audio,https://elevenlabs.io,Freemium,Real-sounding AI voices,Voiceovers and narration,,
+Suno AI,Audio,https://suno.com,Freemium,Full songs from a text prompt,Music for videos,,
+Murf AI,Audio,https://murf.ai,Freemium,Studio-style voiceovers,Ads and lessons,,
+Udio,Audio,https://www.udio.com,Freemium,Songs from a text prompt,New music ideas,,
+Descript,Audio,https://www.descript.com,Freemium,Edit audio by editing text,Podcasts and interviews,,
+Poe,Writing,https://poe.com,Freemium,Chat with many AI models in one app,Trying many chatbots in one place,,2026-10-26
+Google AI Studio,Writing,https://aistudio.google.com,Free,Google's free site to test Gemini AI,Testing strong AI models for free,,2026-10-26
+Mistral Le Chat,Writing,https://chat.mistral.ai,Freemium,Fast AI chat from Europe (now Mistral Vibe),Free chat AI outside US big tech,,2026-10-26
+Hugging Face,Writing,https://huggingface.co,Freemium,Big free library of AI models and demos,Free open AI models to try,,2026-10-26
+Rytr,Writing,https://rytr.me,Freemium,Simple AI writer for short texts,"Emails, ads and social posts",https://rytr.me/pricing,2026-10-26
+NotebookLM,Research,https://notebooklm.google.com,Freemium,Answers only from your own files (now Gemini Notebook),Studying from set documents,,2026-10-26
+SciSpace,Research,https://scispace.com,Freemium,Explains hard science papers in plain words,Reading many research papers,https://scispace.com/guides/credits-pricing-guide,2026-10-26
+Research Rabbit,Research,https://www.researchrabbit.ai,Freemium,Finds new papers from papers you like,Finding linked research fast,https://www.researchrabbit.ai/pricing,2026-10-26
+Microsoft Designer,Image,https://designer.microsoft.com,Freemium,Makes pictures and ready designs for posts,Free pictures and simple designs,,2026-10-26
+Playground,Image,https://playground.com,Freemium,Easy AI image maker with ready styles,Quick AI art for free,,2026-10-26
+Krea AI,Image,https://www.krea.ai,Freemium,Make and fix images with top AI models,Fast image ideas and upscaling,https://www.krea.ai/,2026-10-26
+Microsoft Clipchamp,Video,https://clipchamp.com,Freemium,Simple video editor from Microsoft,Free videos with no watermark,,2026-10-26
+Kapwing,Video,https://www.kapwing.com,Freemium,Online video editor with AI subtitles,Captioning short videos,https://www.kapwing.com/pricing,2026-10-26
+VEED,Video,https://www.veed.io,Freemium,Online video studio with subtitles and AI voices,"Captioned videos, fast",https://www.veed.io/pricing,2026-10-26
+InVideo AI,Video,https://invideo.io,Freemium,Makes a full video from one text idea,Faceless videos and ads,https://invideo.io/pricing,2026-10-26
+Windsurf,Code,https://windsurf.com,Freemium,Code editor with an AI agent (now Devin Desktop),AI coding with a strong free plan,https://devin.ai/pricing,2026-10-26
+Tabnine,Code,https://www.tabnine.com,Freemium,AI code helper that keeps code private,Private code suggestions,https://www.tabnine.com/pricing,2026-10-26
+Kiro,Code,https://kiro.dev,Freemium,AI code editor that plans before it builds,"Planned, well-documented coding",https://kiro.dev/blog/new-pricing-plans-and-auto/,2026-10-26
+NaturalReader,Audio,https://www.naturalreaders.com,Freemium,Reads documents and pages out loud,Learning by listening,,2026-10-26
+AIVA,Audio,https://www.aiva.ai,Freemium,AI music maker in 250+ styles,Background music for videos,https://www.aiva.ai/,2026-10-26
+Fliki,Audio,https://fliki.ai,Freemium,Turns text into voiced videos,Voiced videos without recording,https://fliki.ai/pricing,2026-10-26
+Taskade,Productivity,https://www.taskade.com,Freemium,"Tasks, notes and AI agents in one app",Small teams and job tracking,https://www.taskade.com/learn/account/billing-faq,2026-10-26
+Gamma,Presentations,https://gamma.app,Freemium,Builds slide decks from one topic line,Good-looking decks in minutes,,2026-10-26
+SlidesAI,Presentations,https://www.slidesai.io,Freemium,Turns text into slides in Google Slides,Students and teachers,,2026-10-26
+Framer,Websites,https://www.framer.com,Freemium,"Build modern websites with AI help, no code",Pretty sites and portfolios,https://www.framer.com/pricing,2026-10-26
+Durable,Websites,https://durable.com,Freemium,AI builds a small business website in seconds,A website today for small shops,https://durable.com/pricing,2026-10-26
+Simplified,Marketing,https://simplified.com,Freemium,"Writing, design and social posts in one app",All marketing in one place,,2026-10-26
+Buffer,Marketing,https://buffer.com,Freemium,Plan and post to social media with AI help,Posting to a few social accounts,,2026-10-26
+Zapier,Automation,https://zapier.com,Freemium,Connects apps so work moves by itself,"Easy automation, no code",https://zapier.com/pricing,2026-10-26
+Make,Automation,https://www.make.com,Freemium,Draw automations and connect apps visually,"Bigger, cheaper automations",,2026-10-26
+Otter.ai,Meetings,https://otter.ai,Freemium,Joins meetings and writes down every word,Automatic meeting notes,https://otter.ai/pricing,2026-10-26
+Fireflies.ai,Meetings,https://fireflies.ai,Freemium,Records meetings and makes them searchable,Teams with many calls,https://fireflies.ai/pricing,2026-10-26
+tl;dv,Meetings,https://tldv.io,Freemium,Records calls and shares the best clips,Sales and support call clips,https://tldv.io/app/pricing/,2026-10-26
+Figma,Design,https://www.figma.com,Freemium,Design apps and websites with your team,Product design with AI help,https://www.figma.com/pricing,2026-10-26
+Uizard,Design,https://uizard.io,Freemium,Turns ideas or sketches into app designs,Quick app mockups,https://uizard.io/pricing,2026-10-26
+Chatbase,Chatbots,https://www.chatbase.co,Freemium,Build a chatbot from your own files,Support chatbot for your site,https://www.chatbase.co/pricing,2026-10-26
+Voiceflow,Chatbots,https://www.voiceflow.com,Freemium,Drag-and-drop builder for chat and voice bots,Testing customer chat bots,https://www.voiceflow.com/pricing,2026-10-26

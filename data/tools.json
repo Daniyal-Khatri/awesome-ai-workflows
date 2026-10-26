@@ -2,521 +2,651 @@
   {
     "name": "ChatGPT",
     "category": "Writing",
-    "website": "https://chatgpt.com",
+    "url": "https://chatgpt.com",
     "pricing": "Freemium",
     "description": "AI chat for writing and coding help",
-    "best_for": "Everyday writing and new ideas"
+    "use": "Everyday writing and new ideas",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Claude",
     "category": "Writing",
-    "website": "https://claude.ai",
+    "url": "https://claude.ai",
     "pricing": "Freemium",
     "description": "Long writing and deep thinking",
-    "best_for": "Articles, docs and analysis"
+    "use": "Articles, docs and analysis",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Notion AI",
     "category": "Writing",
-    "website": "https://www.notion.com",
+    "url": "https://www.notion.com",
     "pricing": "Freemium",
     "description": "AI inside your notes and docs",
-    "best_for": "Short summaries and clean notes"
+    "use": "Short summaries and clean notes",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Grammarly",
     "category": "Writing",
-    "website": "https://www.grammarly.com",
+    "url": "https://www.grammarly.com",
     "pricing": "Freemium",
     "description": "Fixes grammar and tone",
-    "best_for": "Clean, pro writing"
+    "use": "Clean, pro writing",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Copy.ai",
     "category": "Writing",
-    "website": "https://www.copy.ai",
+    "url": "https://www.copy.ai",
     "pricing": "Freemium",
     "description": "Short marketing copy, fast",
-    "best_for": "Ads and social posts"
+    "use": "Ads and social posts",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Writesonic",
     "category": "Writing",
-    "website": "https://writesonic.com",
+    "url": "https://writesonic.com",
     "pricing": "Freemium",
     "description": "Blog posts and marketing text",
-    "best_for": "Fast blog drafts"
+    "use": "Fast blog drafts",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Perplexity",
     "category": "Research",
-    "website": "https://www.perplexity.ai",
+    "url": "https://www.perplexity.ai",
     "pricing": "Freemium",
     "description": "AI search that shows its sources",
-    "best_for": "Fast research you can trust"
+    "use": "Fast research you can trust",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Elicit",
     "category": "Research",
-    "website": "https://elicit.com",
+    "url": "https://elicit.com",
     "pricing": "Freemium",
     "description": "Searches real research papers",
-    "best_for": "Students and researchers"
+    "use": "Students and researchers",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Consensus",
     "category": "Research",
-    "website": "https://consensus.app",
+    "url": "https://consensus.app",
     "pricing": "Freemium",
     "description": "Answers from real studies",
-    "best_for": "Science questions"
+    "use": "Science questions",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Recraft AI",
     "category": "Image",
-    "website": "https://www.recraft.ai",
+    "url": "https://www.recraft.ai",
     "pricing": "Freemium",
     "description": "Pictures for design work",
-    "best_for": "Vector art and brand work"
+    "use": "Vector art and brand work",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Leonardo AI",
     "category": "Image",
-    "website": "https://leonardo.ai",
+    "url": "https://leonardo.ai",
     "pricing": "Freemium",
     "description": "AI art and game assets",
-    "best_for": "Game art and images"
+    "use": "Game art and images",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Ideogram",
     "category": "Image",
-    "website": "https://ideogram.ai",
+    "url": "https://ideogram.ai",
     "pricing": "Freemium",
     "description": "Pictures with clear text",
-    "best_for": "Posters and logos with words"
+    "use": "Posters and logos with words",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Adobe Firefly",
     "category": "Image",
-    "website": "https://firefly.adobe.com",
+    "url": "https://firefly.adobe.com",
     "pricing": "Freemium",
     "description": "Safe AI images for brands",
-    "best_for": "Work art you can sell"
+    "use": "Work art you can sell",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Canva AI",
     "category": "Image",
-    "website": "https://www.canva.com",
+    "url": "https://www.canva.com",
     "pricing": "Freemium",
     "description": "Designs with AI help",
-    "best_for": "Posters and social posts"
+    "use": "Posters and social posts",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Runway Gen-3",
     "category": "Video",
-    "website": "https://runwayml.com",
+    "url": "https://runwayml.com",
     "pricing": "Freemium",
     "description": "Make videos from text or pictures",
-    "best_for": "Film-style clips and ads"
+    "use": "Film-style clips and ads",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Kling AI",
     "category": "Video",
-    "website": "https://klingai.com",
+    "url": "https://klingai.com",
     "pricing": "Freemium",
     "description": "Real-looking AI videos",
-    "best_for": "Short social videos"
+    "use": "Short social videos",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "CapCut",
     "category": "Video",
-    "website": "https://www.capcut.com",
+    "url": "https://www.capcut.com",
     "pricing": "Freemium",
     "description": "Edit videos with AI help",
-    "best_for": "TikTok and Reels editing"
+    "use": "TikTok and Reels editing",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Pika",
     "category": "Video",
-    "website": "https://pika.art",
+    "url": "https://pika.art",
     "pricing": "Freemium",
     "description": "Fun short AI videos",
-    "best_for": "Creative clips"
+    "use": "Creative clips",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "HeyGen",
     "category": "Video",
-    "website": "https://www.heygen.com",
+    "url": "https://www.heygen.com",
     "pricing": "Freemium",
     "description": "Videos with an AI face that talks",
-    "best_for": "Talking-head videos"
+    "use": "Talking-head videos",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Lumen5",
     "category": "Video",
-    "website": "https://lumen5.com",
+    "url": "https://lumen5.com",
     "pricing": "Freemium",
     "description": "Turns blog posts into videos",
-    "best_for": "Promo videos"
+    "use": "Promo videos",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Cursor",
     "category": "Code",
-    "website": "https://cursor.com",
+    "url": "https://cursor.com",
     "pricing": "Freemium",
     "description": "Code editor with AI",
-    "best_for": "Building full projects"
+    "use": "Building full projects",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Replit",
     "category": "Code",
-    "website": "https://replit.com",
+    "url": "https://replit.com",
     "pricing": "Freemium",
     "description": "Build apps in your browser",
-    "best_for": "Beginners and quick apps"
+    "use": "Beginners and quick apps",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "v0",
     "category": "Code",
-    "website": "https://v0.dev",
+    "url": "https://v0.dev",
     "pricing": "Freemium",
     "description": "Makes web pages from words",
-    "best_for": "Fast page designs"
+    "use": "Fast page designs",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "ElevenLabs",
     "category": "Audio",
-    "website": "https://elevenlabs.io",
+    "url": "https://elevenlabs.io",
     "pricing": "Freemium",
     "description": "Real-sounding AI voices",
-    "best_for": "Voiceovers and narration"
+    "use": "Voiceovers and narration",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Suno AI",
     "category": "Audio",
-    "website": "https://suno.com",
+    "url": "https://suno.com",
     "pricing": "Freemium",
     "description": "Full songs from a text prompt",
-    "best_for": "Music for videos"
+    "use": "Music for videos",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Murf AI",
     "category": "Audio",
-    "website": "https://murf.ai",
+    "url": "https://murf.ai",
     "pricing": "Freemium",
     "description": "Studio-style voiceovers",
-    "best_for": "Ads and lessons"
+    "use": "Ads and lessons",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Udio",
     "category": "Audio",
-    "website": "https://www.udio.com",
+    "url": "https://www.udio.com",
     "pricing": "Freemium",
     "description": "Songs from a text prompt",
-    "best_for": "New music ideas"
+    "use": "New music ideas",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Descript",
     "category": "Audio",
-    "website": "https://www.descript.com",
+    "url": "https://www.descript.com",
     "pricing": "Freemium",
     "description": "Edit audio by editing text",
-    "best_for": "Podcasts and interviews"
+    "use": "Podcasts and interviews",
+    "pricing_url": "",
+    "pricing_checked": ""
   },
   {
     "name": "Poe",
     "category": "Writing",
-    "website": "https://poe.com",
+    "url": "https://poe.com",
     "pricing": "Freemium",
     "description": "Chat with many AI models in one app",
-    "best_for": "Trying many chatbots in one place"
+    "use": "Trying many chatbots in one place",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Google AI Studio",
     "category": "Writing",
-    "website": "https://aistudio.google.com",
+    "url": "https://aistudio.google.com",
     "pricing": "Free",
     "description": "Google's free site to test Gemini AI",
-    "best_for": "Testing strong AI models for free"
+    "use": "Testing strong AI models for free",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Mistral Le Chat",
     "category": "Writing",
-    "website": "https://chat.mistral.ai",
+    "url": "https://chat.mistral.ai",
     "pricing": "Freemium",
     "description": "Fast AI chat from Europe (now Mistral Vibe)",
-    "best_for": "Free chat AI outside US big tech"
+    "use": "Free chat AI outside US big tech",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Hugging Face",
     "category": "Writing",
-    "website": "https://huggingface.co",
+    "url": "https://huggingface.co",
     "pricing": "Freemium",
     "description": "Big free library of AI models and demos",
-    "best_for": "Free open AI models to try"
+    "use": "Free open AI models to try",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Rytr",
     "category": "Writing",
-    "website": "https://rytr.me",
+    "url": "https://rytr.me",
     "pricing": "Freemium",
     "description": "Simple AI writer for short texts",
-    "best_for": "Emails, ads and social posts"
+    "use": "Emails, ads and social posts",
+    "pricing_url": "https://rytr.me/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "NotebookLM",
     "category": "Research",
-    "website": "https://notebooklm.google.com",
+    "url": "https://notebooklm.google.com",
     "pricing": "Freemium",
     "description": "Answers only from your own files (now Gemini Notebook)",
-    "best_for": "Studying from set documents"
+    "use": "Studying from set documents",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "SciSpace",
     "category": "Research",
-    "website": "https://scispace.com",
+    "url": "https://scispace.com",
     "pricing": "Freemium",
     "description": "Explains hard science papers in plain words",
-    "best_for": "Reading many research papers"
+    "use": "Reading many research papers",
+    "pricing_url": "https://scispace.com/guides/credits-pricing-guide",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Research Rabbit",
     "category": "Research",
-    "website": "https://www.researchrabbit.ai",
+    "url": "https://www.researchrabbit.ai",
     "pricing": "Freemium",
     "description": "Finds new papers from papers you like",
-    "best_for": "Finding linked research fast"
+    "use": "Finding linked research fast",
+    "pricing_url": "https://www.researchrabbit.ai/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Microsoft Designer",
     "category": "Image",
-    "website": "https://designer.microsoft.com",
+    "url": "https://designer.microsoft.com",
     "pricing": "Freemium",
     "description": "Makes pictures and ready designs for posts",
-    "best_for": "Free pictures and simple designs"
+    "use": "Free pictures and simple designs",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Playground",
     "category": "Image",
-    "website": "https://playground.com",
+    "url": "https://playground.com",
     "pricing": "Freemium",
     "description": "Easy AI image maker with ready styles",
-    "best_for": "Quick AI art for free"
+    "use": "Quick AI art for free",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Krea AI",
     "category": "Image",
-    "website": "https://www.krea.ai",
+    "url": "https://www.krea.ai",
     "pricing": "Freemium",
     "description": "Make and fix images with top AI models",
-    "best_for": "Fast image ideas and upscaling"
+    "use": "Fast image ideas and upscaling",
+    "pricing_url": "https://www.krea.ai/",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Microsoft Clipchamp",
     "category": "Video",
-    "website": "https://clipchamp.com",
+    "url": "https://clipchamp.com",
     "pricing": "Freemium",
     "description": "Simple video editor from Microsoft",
-    "best_for": "Free videos with no watermark"
+    "use": "Free videos with no watermark",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Kapwing",
     "category": "Video",
-    "website": "https://www.kapwing.com",
+    "url": "https://www.kapwing.com",
     "pricing": "Freemium",
     "description": "Online video editor with AI subtitles",
-    "best_for": "Captioning short videos"
+    "use": "Captioning short videos",
+    "pricing_url": "https://www.kapwing.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "VEED",
     "category": "Video",
-    "website": "https://www.veed.io",
+    "url": "https://www.veed.io",
     "pricing": "Freemium",
     "description": "Online video studio with subtitles and AI voices",
-    "best_for": "Captioned videos, fast"
+    "use": "Captioned videos, fast",
+    "pricing_url": "https://www.veed.io/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "InVideo AI",
     "category": "Video",
-    "website": "https://invideo.io",
+    "url": "https://invideo.io",
     "pricing": "Freemium",
     "description": "Makes a full video from one text idea",
-    "best_for": "Faceless videos and ads"
+    "use": "Faceless videos and ads",
+    "pricing_url": "https://invideo.io/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Windsurf",
     "category": "Code",
-    "website": "https://windsurf.com",
+    "url": "https://windsurf.com",
     "pricing": "Freemium",
     "description": "Code editor with an AI agent (now Devin Desktop)",
-    "best_for": "AI coding with a strong free plan"
+    "use": "AI coding with a strong free plan",
+    "pricing_url": "https://devin.ai/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Tabnine",
     "category": "Code",
-    "website": "https://www.tabnine.com",
+    "url": "https://www.tabnine.com",
     "pricing": "Freemium",
     "description": "AI code helper that keeps code private",
-    "best_for": "Private code suggestions"
+    "use": "Private code suggestions",
+    "pricing_url": "https://www.tabnine.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Kiro",
     "category": "Code",
-    "website": "https://kiro.dev",
+    "url": "https://kiro.dev",
     "pricing": "Freemium",
     "description": "AI code editor that plans before it builds",
-    "best_for": "Planned, well-documented coding"
+    "use": "Planned, well-documented coding",
+    "pricing_url": "https://kiro.dev/blog/new-pricing-plans-and-auto/",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "NaturalReader",
     "category": "Audio",
-    "website": "https://www.naturalreaders.com",
+    "url": "https://www.naturalreaders.com",
     "pricing": "Freemium",
     "description": "Reads documents and pages out loud",
-    "best_for": "Learning by listening"
+    "use": "Learning by listening",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "AIVA",
     "category": "Audio",
-    "website": "https://www.aiva.ai",
+    "url": "https://www.aiva.ai",
     "pricing": "Freemium",
     "description": "AI music maker in 250+ styles",
-    "best_for": "Background music for videos"
+    "use": "Background music for videos",
+    "pricing_url": "https://www.aiva.ai/",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Fliki",
     "category": "Audio",
-    "website": "https://fliki.ai",
+    "url": "https://fliki.ai",
     "pricing": "Freemium",
     "description": "Turns text into voiced videos",
-    "best_for": "Voiced videos without recording"
+    "use": "Voiced videos without recording",
+    "pricing_url": "https://fliki.ai/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Taskade",
     "category": "Productivity",
-    "website": "https://www.taskade.com",
+    "url": "https://www.taskade.com",
     "pricing": "Freemium",
     "description": "Tasks, notes and AI agents in one app",
-    "best_for": "Small teams and job tracking"
+    "use": "Small teams and job tracking",
+    "pricing_url": "https://www.taskade.com/learn/account/billing-faq",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Gamma",
     "category": "Presentations",
-    "website": "https://gamma.app",
+    "url": "https://gamma.app",
     "pricing": "Freemium",
     "description": "Builds slide decks from one topic line",
-    "best_for": "Good-looking decks in minutes"
+    "use": "Good-looking decks in minutes",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "SlidesAI",
     "category": "Presentations",
-    "website": "https://www.slidesai.io",
+    "url": "https://www.slidesai.io",
     "pricing": "Freemium",
     "description": "Turns text into slides in Google Slides",
-    "best_for": "Students and teachers"
+    "use": "Students and teachers",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Framer",
     "category": "Websites",
-    "website": "https://www.framer.com",
+    "url": "https://www.framer.com",
     "pricing": "Freemium",
     "description": "Build modern websites with AI help, no code",
-    "best_for": "Pretty sites and portfolios"
+    "use": "Pretty sites and portfolios",
+    "pricing_url": "https://www.framer.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Durable",
     "category": "Websites",
-    "website": "https://durable.com",
+    "url": "https://durable.com",
     "pricing": "Freemium",
     "description": "AI builds a small business website in seconds",
-    "best_for": "A website today for small shops"
+    "use": "A website today for small shops",
+    "pricing_url": "https://durable.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Simplified",
     "category": "Marketing",
-    "website": "https://simplified.com",
+    "url": "https://simplified.com",
     "pricing": "Freemium",
     "description": "Writing, design and social posts in one app",
-    "best_for": "All marketing in one place"
+    "use": "All marketing in one place",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Buffer",
     "category": "Marketing",
-    "website": "https://buffer.com",
+    "url": "https://buffer.com",
     "pricing": "Freemium",
     "description": "Plan and post to social media with AI help",
-    "best_for": "Posting to a few social accounts"
+    "use": "Posting to a few social accounts",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Zapier",
     "category": "Automation",
-    "website": "https://zapier.com",
+    "url": "https://zapier.com",
     "pricing": "Freemium",
     "description": "Connects apps so work moves by itself",
-    "best_for": "Easy automation, no code"
+    "use": "Easy automation, no code",
+    "pricing_url": "https://zapier.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Make",
     "category": "Automation",
-    "website": "https://www.make.com",
+    "url": "https://www.make.com",
     "pricing": "Freemium",
     "description": "Draw automations and connect apps visually",
-    "best_for": "Bigger, cheaper automations"
+    "use": "Bigger, cheaper automations",
+    "pricing_url": "",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Otter.ai",
     "category": "Meetings",
-    "website": "https://otter.ai",
+    "url": "https://otter.ai",
     "pricing": "Freemium",
     "description": "Joins meetings and writes down every word",
-    "best_for": "Automatic meeting notes"
+    "use": "Automatic meeting notes",
+    "pricing_url": "https://otter.ai/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Fireflies.ai",
     "category": "Meetings",
-    "website": "https://fireflies.ai",
+    "url": "https://fireflies.ai",
     "pricing": "Freemium",
     "description": "Records meetings and makes them searchable",
-    "best_for": "Teams with many calls"
+    "use": "Teams with many calls",
+    "pricing_url": "https://fireflies.ai/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "tl;dv",
     "category": "Meetings",
-    "website": "https://tldv.io",
+    "url": "https://tldv.io",
     "pricing": "Freemium",
     "description": "Records calls and shares the best clips",
-    "best_for": "Sales and support call clips"
+    "use": "Sales and support call clips",
+    "pricing_url": "https://tldv.io/app/pricing/",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Figma",
     "category": "Design",
-    "website": "https://www.figma.com",
+    "url": "https://www.figma.com",
     "pricing": "Freemium",
     "description": "Design apps and websites with your team",
-    "best_for": "Product design with AI help"
+    "use": "Product design with AI help",
+    "pricing_url": "https://www.figma.com/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Uizard",
     "category": "Design",
-    "website": "https://uizard.io",
+    "url": "https://uizard.io",
     "pricing": "Freemium",
     "description": "Turns ideas or sketches into app designs",
-    "best_for": "Quick app mockups"
+    "use": "Quick app mockups",
+    "pricing_url": "https://uizard.io/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Chatbase",
     "category": "Chatbots",
-    "website": "https://www.chatbase.co",
+    "url": "https://www.chatbase.co",
     "pricing": "Freemium",
     "description": "Build a chatbot from your own files",
-    "best_for": "Support chatbot for your site"
+    "use": "Support chatbot for your site",
+    "pricing_url": "https://www.chatbase.co/pricing",
+    "pricing_checked": "2026-10-26"
   },
   {
     "name": "Voiceflow",
     "category": "Chatbots",
-    "website": "https://www.voiceflow.com",
+    "url": "https://www.voiceflow.com",
     "pricing": "Freemium",
     "description": "Drag-and-drop builder for chat and voice bots",
-    "best_for": "Testing customer chat bots"
+    "use": "Testing customer chat bots",
+    "pricing_url": "https://www.voiceflow.com/pricing",
+    "pricing_checked": "2026-10-26"
   }
 ]
