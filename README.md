@@ -10,7 +10,7 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 
 **Cost legend:** 🆓 Free · 🔓 Freemium (real free tier) · 💳 needs a card — **you will never see 💳 on this list.**
 
-**Last checked:** October 26, 2026 · **What's new:** batch 2 — beginner roadmap, our rules in print, how-we-choose numbers, and copy-paste recipe cards on the first 5 stacks.
+**Last checked:** October 26, 2026 · **What's new:** all 17 stacks now carry copy-paste recipe cards — the actual prompt for every step.
 
 ## 🗺️ Beginner Roadmap
 
@@ -173,6 +173,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Teacher videos use the most free credits — write the script tight before you record.*
 
+**📋 Copy-paste recipes**
+- **ChatGPT:** `Make a course outline about [topic] for total beginners. 5 lessons. For each lesson: a title, 3 things the student will learn, and one small practice task.`
+- **HeyGen:** write your script in short lines — one idea per line. Start like this: `Welcome to lesson 1. Today you will learn [one clear thing].`
+- **Canva AI:** `A clean course slide titled "[Lesson title]" with 3 short bullet points and one simple picture of [thing]`
+- **CapCut:** edit recipe — auto-captions ON → remove silences → add the lesson title → export at 1080p.
+
 ### 🎙️ Podcast Stack
 
 **Level:** 🟢 Beginner
@@ -183,6 +189,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 4. **[Descript](https://www.descript.com)** — edit audio by editing text
 
 *Free-plan catch: Voice minutes are the tightest limit on free plans — record the script in as few takes as you can.*
+
+**📋 Copy-paste recipes**
+- **Perplexity:** `Give me 5 interesting facts and 3 common questions about [topic], with sources. One line per fact.`
+- **Claude:** `Write a 10-minute podcast script about [topic] for beginners. Friendly host voice, easy words, a hook in the first 20 seconds, and 3 clear parts.`
+- **Murf AI:** paste the script in small parts — one part per voice block — and pick the warm storyteller voice.
+- **Descript:** edit recipe — delete the filler words (um, uh) → cut the long silences → export as MP3. In Descript you edit audio by editing the text.
 
 ### 🔬 Student Research Stack
 
@@ -232,6 +244,13 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Fliki free gives 3 credits a month and adds a watermark. Make free gives 1,000 actions a month.*
 
+**📋 Copy-paste recipes**
+- **NotebookLM:** `Based only on my uploaded sources, list the facts I must not get wrong about [topic], and 3 angles readers will love.`
+- **Mistral Le Chat:** `Write a blog post about [topic] for beginners. Easy words, short paragraphs, friendly tone, one clear example in each part. Use these facts: [paste your facts]`
+- **Playground:** `A wide blog header picture about [topic], bright and clean, no text, empty space at the top for a title`
+- **Fliki:** paste your blog post, choose the short summary option, pick a warm voice, export a 60-second vertical video.
+- **Make:** automation recipe — Trigger: new post in your blog feed → Action: share the title + link to your social apps. Build it once; it shares every new post by itself.
+
 ### 📺 Faceless YouTube Stack
 
 **Level:** 🟢 Beginner
@@ -260,6 +279,13 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Durable free gives 300 AI credits in total and a durable.site address. Krea free gives 100 units a day.*
 
+**📋 Copy-paste recipes**
+- **Krea AI:** `A bright product photo of [product] on a clean white background, soft daylight, no hands, no text`
+- **Canva AI:** `An online shop banner for [product], bold title "[short benefit]", warm colors, one product picture on the right`
+- **Copy.ai:** pick Product Description and paste: `Write a product description for [product]. Buyer: [who buys it]. Top 3 benefits: [list]. Friendly tone, 80 words, end with a reason to buy today.`
+- **Durable:** answer its 3 questions (shop name, what you sell, your city) — it builds the site. Then paste in your product text and photos.
+- **Buffer:** use its AI Assistant: `Write 3 short posts for [product]: one tip, one customer benefit, one offer. 3 hashtags each.`
+
 ### 🛍️ Small-Shop Social Media Stack
 
 **Level:** 🟢 Beginner
@@ -272,6 +298,13 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Buffer free covers 3 channels with 10 scheduled posts each. Kapwing free exports carry a watermark.*
 
+**📋 Copy-paste recipes**
+- **Durable:** build the shop site first (name, what you sell, city) — every post you make will link back to it.
+- **Krea AI:** `A happy photo of [product] in a real home setting, warm light, square, ready for Instagram`
+- **Simplified:** `Write an Instagram caption for this product photo: one hook line, 2 short lines on the benefit, one question for followers, 5 hashtags.`
+- **Kapwing:** edit recipe — upload the clip → auto-subtitles ON → resize to 9:16 → export. Subtitles matter: most people watch with the sound off.
+- **Buffer:** plan one week — 3 posts on the same days and times — and let Buffer post them while you run the shop.
+
 ### 📋 Meeting-to-Action Stack
 
 **Level:** 🟢 Beginner
@@ -282,6 +315,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 4. **[Make](https://www.make.com)** — auto-send the summary to your apps
 
 *Free-plan catch: Otter free covers 300 minutes a month (30 minutes per meeting). Make free gives 1,000 actions a month.*
+
+**📋 Copy-paste recipes**
+- **Otter.ai:** before the call, turn Otter on and let it join. After the call, copy its summary and the action items it found.
+- **Fireflies.ai:** ask its search: `Show me every time we talked about [topic] this month, and who promised what.`
+- **Taskade:** `Turn these meeting notes into tasks. For each task give: the owner, the due date, and one clear next step. Notes: [paste the summary]`
+- **Make:** automation recipe — Trigger: new meeting summary → Action: send it to your team chat and save a copy in a folder. Build once; never forward notes by hand again.
 
 ### 🎬 YouTube Creator Stack
 
@@ -294,6 +333,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Runway and Kling free credits go fast — plan every shot before you generate.*
 
+**📋 Copy-paste recipes**
+- **ChatGPT:** `Write a YouTube script about [topic] for beginners: a 15-second hook, 4 clear parts, a strong title, and 3 thumbnail text ideas of 3 words each.`
+- **ElevenLabs:** paste the script in parts, pick an energetic voice, and type `…` before the big moment to add a dramatic pause.
+- **Runway Gen-3:** `Cinematic shot of [your scene], slow camera move, golden light, realistic, no text`
+- **Ideogram:** `YouTube thumbnail, huge bold text "[3 WORDS]", bright background, one clear object, empty space on the left for a face`
+
 ### 🏪 Small Business Marketing Stack
 
 **Level:** 🟡 Intermediate
@@ -304,6 +349,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 4. **[Grammarly](https://www.grammarly.com)** — check every word before you post
 
 *Free-plan catch: Every step works on a free plan — the video step is where free limits bite first.*
+
+**📋 Copy-paste recipes**
+- **Copy.ai:** pick the ad or caption maker and paste: `Write a short ad for [product or service]. Customer: [who]. One pain, one promise, one call to action. 40 words.`
+- **Ideogram:** `A clean poster for [your offer], big clear text "[OFFER TEXT]", [your colors] colors, no small text`
+- **Lumen5:** paste your post or blog text, pick a bold template, and check every stock clip it chooses really fits your product before you export.
+- **Grammarly:** final check — paste every post and ad into Grammarly and fix only the red lines. Then ship it.
 
 ### 🧑‍💻 Freelancer Stack
 
@@ -316,6 +367,12 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Framer free uses a Framer web address. Zapier free gives 100 tasks a month.*
 
+**📋 Copy-paste recipes**
+- **Framer:** start from its AI builder: `A one-page portfolio for a [your skill] freelancer: hero with my name and one clear promise, 3 work samples, my prices, and a contact button.`
+- **Chatbase:** feed it your services page, your prices, and your 10 most common client questions. Test it with 5 real questions before it goes on your site.
+- **Simplified:** `Write a LinkedIn post about a lesson I learned doing [project type]. Friendly expert tone, one hook line, 5 short lines, 3 hashtags.`
+- **Zapier:** automation recipe — Trigger: new form reply → Action: add a row to your leads sheet and send yourself a message. Build once; never lose a lead again.
+
 ### 🤖 Customer Support Bot Stack
 
 **Level:** 🟡 Intermediate
@@ -326,6 +383,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Chatbase free gives 20 bot messages a month — enough to test, not for a busy shop. Zapier free gives 100 tasks a month.*
 
+**📋 Copy-paste recipes**
+- **Chatbase:** upload your help pages, price list, and return policy. The bot answers only from these files — that keeps it honest.
+- **Voiceflow:** test the bot with these 5 questions before launch: `How much is [product]?` · `How do I return this?` · `Where is my order?` · `Do you deliver to [city]?` · `Can I talk to a human?`
+- **Zapier:** automation recipe — Trigger: the bot cannot answer → Action: save the question to a sheet and email it to you. Check the sheet weekly and teach the bot the missing answers.
+
 ### 💻 Indie Developer Stack
 
 **Level:** 🔴 Advanced
@@ -335,6 +397,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 3. **[Claude](https://claude.ai)** — check code and write docs
 
 *Free-plan catch: Cursor and Replit free tiers are enough to build and test a small app end to end.*
+
+**📋 Copy-paste recipes**
+- **Cursor:** `Build [your app idea] as a simple web app. Plain HTML, CSS, and JavaScript in one folder. Explain each file in one line as you create it.`
+- **Replit:** press Run and test every button. Then break one small thing on purpose and read the error — that is how you learn what the code does.
+- **Claude:** `Review this code like a kind teacher. Find the bugs, explain each one in easy words, and show the fixed version: [paste your code]`
 
 ### 📱 App Builder Stack
 
@@ -347,6 +414,13 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 5. **[Replit](https://replit.com)** — test and run it in the browser
 
 *Free-plan catch: The design step is the tightest limit: Uizard free gives 3 AI designs a month.*
+
+**📋 Copy-paste recipes**
+- **Uizard:** `A mobile app for [your idea]: a home screen with [main action], a list screen, and a profile screen. Clean and simple.`
+- **Figma:** change one small thing at a time. In Figma Make, type: `Make the main button bigger and move it to the bottom of the screen.`
+- **v0:** `Build a landing page for [app name]: a hero, 3 features, prices, and a signup form. Modern, clean, mobile-first.`
+- **Cursor:** `Turn this design into a working app. Keep the code simple, one feature per file, and explain your plan before you write any code.`
+- **Replit:** run it, click every button, and write down anything that breaks. Fix the list from top to bottom.
 
 ## 🧰 Tools by Category
 
@@ -498,6 +572,7 @@ Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 📅 Changelog
 
+- **October 26, 2026** — Recipe cards finished: all 17 stacks now include the copy-paste prompt for every step.
 - **October 26, 2026** — Batch 2: beginner roadmap, just-the-5-best box, cost legend (🆓/🔓), our rules and how-we-choose numbers in print, copy-paste recipe cards on 5 stacks.
 - **October 26, 2026** — Reader upgrades: start-by-goal box, first-week 10-tools shelf, level tags on all stacks, free-plan catch lines, full contents index.
 - **October 26, 2026** — Grew to 65 tools in 14 categories and 17 workflow stacks, all free or freemium.
