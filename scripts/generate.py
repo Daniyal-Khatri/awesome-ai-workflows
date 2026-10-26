@@ -26,7 +26,7 @@ FIELDS = ["name", "category", "url", "pricing", "description", "use",
 
 START_MARKER = "<!-- generated:tools-tables:start -->"
 END_MARKER = "<!-- generated:tools-tables:end -->"
-TABLES_HEADING = "## 🧰 Tools by Category"
+TABLES_HEADING = "## Tools by Category"
 
 # Display headings used in the README for some canonical category names.
 DISPLAY_NAME = {
