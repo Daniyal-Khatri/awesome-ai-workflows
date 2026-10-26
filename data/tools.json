@@ -72,14 +72,6 @@
     "best_for": "Science questions"
   },
   {
-    "name": "Midjourney",
-    "category": "Image",
-    "website": "https://www.midjourney.com",
-    "pricing": "Paid",
-    "description": "Top AI pictures",
-    "best_for": "Art, thumbnails and product photos"
-  },
-  {
     "name": "Recraft AI",
     "category": "Image",
     "website": "https://www.recraft.ai",
@@ -174,14 +166,6 @@
     "pricing": "Freemium",
     "description": "Code editor with AI",
     "best_for": "Building full projects"
-  },
-  {
-    "name": "GitHub Copilot",
-    "category": "Code",
-    "website": "https://github.com/features/copilot",
-    "pricing": "Paid",
-    "description": "AI help in your code editor",
-    "best_for": "Fast code suggestions"
   },
   {
     "name": "Replit",
