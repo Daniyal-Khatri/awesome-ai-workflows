@@ -6,64 +6,139 @@ A hand-picked list of AI tools, grouped by **full workflows** — plus ready-mad
 
 Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find AI tools by the job you want to do.
 
-**Every tool on this list is Free or Freemium — you can start without a credit card.**
+**Every tool on this list is Free or Freemium — you can start without a credit card. Every stack is written as steps a beginner can follow.**
+
+**Last checked:** October 26, 2026 · **What's new:** reader upgrades added — start-by-goal box, first-week shelf, level tags, and free-plan catches on every stack.
 
 ## 📚 Contents
 
+- [Start Here — Pick Your Goal](#-start-here--pick-your-goal)
+- [First Week: 10 Tools](#-first-week-10-tools)
 - [Workflow Stacks](#-workflow-stacks)
+  - [Short-Form Video Stack](#short-form-video-stack)
+  - [Content Writer Stack](#content-writer-stack)
+  - [Online Course Stack](#online-course-stack)
+  - [Podcast Stack](#podcast-stack)
+  - [Student Research Stack](#student-research-stack)
+  - [Job-Seeker Stack](#job-seeker-stack)
+  - [Blogger / Creator Stack](#blogger-creator-stack)
+  - [Faceless YouTube Stack](#faceless-youtube-stack)
+  - [Online Seller Stack](#online-seller-stack)
+  - [Small-Shop Social Media Stack](#small-shop-social-media-stack)
+  - [Meeting-to-Action Stack](#meeting-to-action-stack)
+  - [YouTube Creator Stack](#youtube-creator-stack)
+  - [Small Business Marketing Stack](#small-business-marketing-stack)
+  - [Freelancer Stack](#freelancer-stack)
+  - [Customer Support Bot Stack](#customer-support-bot-stack)
+  - [Indie Developer Stack](#indie-developer-stack)
+  - [App Builder Stack](#app-builder-stack)
 - [Tools by Category](#-tools-by-category)
+  - [Writing & Chat](#writing-chat)
+  - [Research](#research)
+  - [Image](#image)
+  - [Video](#video)
+  - [Code](#code)
+  - [Audio](#audio)
+  - [Productivity](#productivity)
+  - [Presentations](#presentations)
+  - [Website Builders](#website-builders)
+  - [Marketing](#marketing)
+  - [Automation](#automation)
+  - [Meetings & Notes](#meetings-notes)
+  - [Design](#design)
+  - [Voice & Chatbots](#voice-chatbots)
 - [The Data](#-the-data)
 - [Contributing](#-contributing)
+- [Changelog](#-changelog)
+
+## 🎯 Start Here — Pick Your Goal
+
+| I want to… | Go to this stack |
+| --- | --- |
+| Make short videos for TikTok or Reels | [Short-Form Video Stack](#short-form-video-stack) |
+| Start a faceless YouTube channel | [Faceless YouTube Stack](#faceless-youtube-stack) |
+| Make full YouTube videos | [YouTube Creator Stack](#youtube-creator-stack) |
+| Write a blog or article | [Blogger / Creator Stack](#blogger-creator-stack) |
+| Write content for work | [Content Writer Stack](#content-writer-stack) |
+| Start a podcast | [Podcast Stack](#podcast-stack) |
+| Study or research a topic | [Student Research Stack](#student-research-stack) |
+| Find a job | [Job-Seeker Stack](#job-seeker-stack) |
+| Teach an online course | [Online Course Stack](#online-course-stack) |
+| Sell products online | [Online Seller Stack](#online-seller-stack) |
+| Market my small business | [Small Business Marketing Stack](#small-business-marketing-stack) |
+| Run my shop's social media | [Small-Shop Social Media Stack](#small-shop-social-media-stack) |
+| Turn meetings into tasks | [Meeting-to-Action Stack](#meeting-to-action-stack) |
+| Get freelance clients | [Freelancer Stack](#freelancer-stack) |
+| Add a support bot to my website | [Customer Support Bot Stack](#customer-support-bot-stack) |
+| Code with AI help | [Indie Developer Stack](#indie-developer-stack) |
+| Build an app | [App Builder Stack](#app-builder-stack) |
+
+## ⭐ First Week: 10 Tools
+
+New here? Start with these 10 — the easiest tools with the most generous free plans.
+
+| Tool | Why start here | Pricing |
+| --- | --- | --- |
+| [Google AI Studio](https://aistudio.google.com) | Fully free — test Google's Gemini AI in your browser | Free |
+| [ChatGPT](https://chatgpt.com) | The easiest first AI chat for writing and ideas | Freemium |
+| [Perplexity](https://www.perplexity.ai) | Research with sources you can check | Freemium |
+| [Grammarly](https://www.grammarly.com) | Clean up anything you write | Freemium |
+| [Ideogram](https://ideogram.ai) | Posters and thumbnails with clear text | Freemium |
+| [Microsoft Clipchamp](https://clipchamp.com) | Edit videos free, no watermark, up to 1080p | Freemium |
+| [CapCut](https://www.capcut.com) | The beginner video editor for TikTok and Reels | Freemium |
+| [Canva AI](https://www.canva.com) | Designs and social posts with AI help | Freemium |
+| [tl;dv](https://tldv.io) | Free meeting recordings and notes, no card needed | Freemium |
+| [Zapier](https://zapier.com) | Your first automations — 100 free tasks a month | Freemium |
 
 ## 🔗 Workflow Stacks
 
-### 🎬 YouTube Creator Stack
-
-1. **[ChatGPT](https://chatgpt.com)** — script, hooks and titles
-2. **[ElevenLabs](https://elevenlabs.io)** — voiceover
-3. **[Runway Gen-3 / Kling AI](https://runwayml.com)** — make the video
-4. **[Ideogram](https://ideogram.ai)** — thumbnail art with clear text
-
-### 💻 Indie Developer Stack
-
-1. **[Cursor](https://cursor.com)** — write code with AI
-2. **[Replit](https://replit.com)** — test and run code in the browser
-3. **[Claude](https://claude.ai)** — check code and write docs
-
-### ✍️ Content Writer Stack
-
-1. **[Perplexity](https://www.perplexity.ai)** — research with sources
-2. **[Claude](https://claude.ai)** — write the first draft
-3. **[Notion AI](https://www.notion.com)** — organize and polish
+Stacks are ordered **beginner first**. Each one ends with its free-plan catch — the limit to know before you start.
 
 ### 🎵 Short-Form Video Stack
+
+**Level:** 🟢 Beginner
 
 1. **[Suno AI](https://suno.com)** — original music
 2. **[Kling AI](https://klingai.com)** — video clips
 3. **[ElevenLabs](https://elevenlabs.io)** — narration
 
-### 🎙️ Podcast Stack
+*Free-plan catch: Free tiers cover the whole stack — the video and voice steps hit their free caps first, so keep clips short.*
 
-1. **[Perplexity](https://www.perplexity.ai)** — find topics and facts
-2. **[Claude](https://claude.ai)** — write the episode script
-3. **[Murf AI](https://murf.ai)** — record the voice
-4. **[Descript](https://www.descript.com)** — edit audio by editing text
+### ✍️ Content Writer Stack
+
+**Level:** 🟢 Beginner
+
+1. **[Perplexity](https://www.perplexity.ai)** — research with sources
+2. **[Claude](https://claude.ai)** — write the first draft
+3. **[Notion AI](https://www.notion.com)** — organize and polish
+
+*Free-plan catch: Free plans are enough for a few articles a week; heavy daily writing will hit free-plan caps.*
 
 ### 🎓 Online Course Stack
+
+**Level:** 🟢 Beginner
 
 1. **[ChatGPT](https://chatgpt.com)** — course outline and lesson plans
 2. **[HeyGen](https://www.heygen.com)** — teacher videos with an AI face
 3. **[Canva AI](https://www.canva.com)** — slides and lesson art
 4. **[CapCut](https://www.capcut.com)** — edit the final videos
 
-### 🏪 Small Business Marketing Stack
+*Free-plan catch: Teacher videos use the most free credits — write the script tight before you record.*
 
-1. **[Copy.ai](https://www.copy.ai)** — ad and post copy
-2. **[Ideogram](https://ideogram.ai)** — posters with clear text
-3. **[Lumen5](https://lumen5.com)** — turn posts into promo videos
-4. **[Grammarly](https://www.grammarly.com)** — check every word before you post
+### 🎙️ Podcast Stack
+
+**Level:** 🟢 Beginner
+
+1. **[Perplexity](https://www.perplexity.ai)** — find topics and facts
+2. **[Claude](https://claude.ai)** — write the episode script
+3. **[Murf AI](https://murf.ai)** — record the voice
+4. **[Descript](https://www.descript.com)** — edit audio by editing text
+
+*Free-plan catch: Voice minutes are the tightest limit on free plans — record the script in as few takes as you can.*
 
 ### 🔬 Student Research Stack
+
+**Level:** 🟢 Beginner
 
 1. **[Research Rabbit](https://www.researchrabbit.ai)** — find strong papers on your topic
 2. **[SciSpace](https://scispace.com)** — plain-word explanations of hard papers
@@ -71,7 +146,11 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Gamma](https://gamma.app)** — turn notes into class slides
 5. **[Rytr](https://rytr.me)** — write the short report text
 
+*Free-plan catch: Gamma's 400 free credits never refill — save them for the final slides. SciSpace Basic gives 100 credits a month.*
+
 ### 💼 Job-Seeker Stack
+
+**Level:** 🟢 Beginner
 
 1. **[Poe](https://poe.com)** — match your skills to a job ad
 2. **[Rytr](https://rytr.me)** — cover letter and CV bullet points
@@ -79,15 +158,11 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Taskade](https://www.taskade.com)** — track every job you apply to
 5. **[Mistral Le Chat](https://chat.mistral.ai)** — practice interview answers
 
-### 🛍️ Small-Shop Social Media Stack
-
-1. **[Durable](https://durable.com)** — shop website and customer list
-2. **[Krea AI](https://www.krea.ai)** — bright product images
-3. **[Simplified](https://simplified.com)** — post designs and captions
-4. **[Kapwing](https://www.kapwing.com)** — short videos with subtitles
-5. **[Buffer](https://buffer.com)** — schedule posts to 3 free channels
+*Free-plan catch: Framer free puts your site on a Framer web address (a custom domain is paid). Poe free points reset every day.*
 
 ### 📝 Blogger / Creator Stack
+
+**Level:** 🟢 Beginner
 
 1. **[NotebookLM](https://notebooklm.google.com)** — collect sources and check facts
 2. **[Mistral Le Chat](https://chat.mistral.ai)** — turn notes into a full blog draft
@@ -95,14 +170,22 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Fliki](https://fliki.ai)** — turn the post into a voiced video
 5. **[Make](https://www.make.com)** — auto-share new posts to your apps
 
+*Free-plan catch: Fliki free gives 3 credits a month and adds a watermark. Make free gives 1,000 actions a month.*
+
 ### 📺 Faceless YouTube Stack
+
+**Level:** 🟢 Beginner
 
 1. **[InVideo AI](https://invideo.io)** — make the full video from one idea
 2. **[Fliki](https://fliki.ai)** — add a real-sounding voice
 3. **[CapCut](https://www.capcut.com)** — cut and polish the video
 4. **[Ideogram](https://ideogram.ai)** — thumbnail with clear text
 
+*Free-plan catch: InVideo free exports carry a watermark, and Fliki free gives 3 credits a month — plan one video at a time.*
+
 ### 🛒 Online Seller Stack
+
+**Level:** 🟢 Beginner
 
 1. **[Krea AI](https://www.krea.ai)** — bright product photos
 2. **[Canva AI](https://www.canva.com)** — listing art and banners
@@ -110,7 +193,87 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Durable](https://durable.com)** — your own shop website
 5. **[Buffer](https://buffer.com)** — schedule promo posts
 
+*Free-plan catch: Durable free gives 300 AI credits in total and a durable.site address. Krea free gives 100 units a day.*
+
+### 🛍️ Small-Shop Social Media Stack
+
+**Level:** 🟢 Beginner
+
+1. **[Durable](https://durable.com)** — shop website and customer list
+2. **[Krea AI](https://www.krea.ai)** — bright product images
+3. **[Simplified](https://simplified.com)** — post designs and captions
+4. **[Kapwing](https://www.kapwing.com)** — short videos with subtitles
+5. **[Buffer](https://buffer.com)** — schedule posts to 3 free channels
+
+*Free-plan catch: Buffer free covers 3 channels with 10 scheduled posts each. Kapwing free exports carry a watermark.*
+
+### 📋 Meeting-to-Action Stack
+
+**Level:** 🟢 Beginner
+
+1. **[Otter.ai](https://otter.ai)** — record the meeting and write every word
+2. **[Fireflies.ai](https://fireflies.ai)** — search any topic across past meetings
+3. **[Taskade](https://www.taskade.com)** — turn notes into tasks with owners
+4. **[Make](https://www.make.com)** — auto-send the summary to your apps
+
+*Free-plan catch: Otter free covers 300 minutes a month (30 minutes per meeting). Make free gives 1,000 actions a month.*
+
+### 🎬 YouTube Creator Stack
+
+**Level:** 🟡 Intermediate
+
+1. **[ChatGPT](https://chatgpt.com)** — script, hooks and titles
+2. **[ElevenLabs](https://elevenlabs.io)** — voiceover
+3. **[Runway Gen-3](https://runwayml.com)** — make the video (or use Kling AI)
+4. **[Ideogram](https://ideogram.ai)** — thumbnail art with clear text
+
+*Free-plan catch: Runway and Kling free credits go fast — plan every shot before you generate.*
+
+### 🏪 Small Business Marketing Stack
+
+**Level:** 🟡 Intermediate
+
+1. **[Copy.ai](https://www.copy.ai)** — ad and post copy
+2. **[Ideogram](https://ideogram.ai)** — posters with clear text
+3. **[Lumen5](https://lumen5.com)** — turn posts into promo videos
+4. **[Grammarly](https://www.grammarly.com)** — check every word before you post
+
+*Free-plan catch: Every step works on a free plan — the video step is where free limits bite first.*
+
+### 🧑‍💻 Freelancer Stack
+
+**Level:** 🟡 Intermediate
+
+1. **[Framer](https://www.framer.com)** — portfolio website that wins clients
+2. **[Chatbase](https://www.chatbase.co)** — a bot that answers client questions
+3. **[Simplified](https://simplified.com)** — posts that market your services
+4. **[Zapier](https://zapier.com)** — save new leads to a sheet by itself
+
+*Free-plan catch: Framer free uses a Framer web address. Zapier free gives 100 tasks a month.*
+
+### 🤖 Customer Support Bot Stack
+
+**Level:** 🟡 Intermediate
+
+1. **[Chatbase](https://www.chatbase.co)** — build a bot from your help files
+2. **[Voiceflow](https://www.voiceflow.com)** — test the chat flows
+3. **[Zapier](https://zapier.com)** — send hard questions to your sheet or email
+
+*Free-plan catch: Chatbase free gives 20 bot messages a month — enough to test, not for a busy shop. Zapier free gives 100 tasks a month.*
+
+### 💻 Indie Developer Stack
+
+**Level:** 🔴 Advanced
+
+1. **[Cursor](https://cursor.com)** — write code with AI
+2. **[Replit](https://replit.com)** — test and run code in the browser
+3. **[Claude](https://claude.ai)** — check code and write docs
+
+*Free-plan catch: Cursor and Replit free tiers are enough to build and test a small app end to end.*
+
 ### 📱 App Builder Stack
+
+**Level:** 🔴 Advanced
 
 1. **[Uizard](https://uizard.io)** — turn the idea into an app mockup
 2. **[Figma](https://www.figma.com)** — polish the design with your team
@@ -118,25 +281,7 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 4. **[Cursor](https://cursor.com)** — build the full app with AI
 5. **[Replit](https://replit.com)** — test and run it in the browser
 
-### 🤖 Customer Support Bot Stack
-
-1. **[Chatbase](https://www.chatbase.co)** — build a bot from your help files
-2. **[Voiceflow](https://www.voiceflow.com)** — test the chat flows
-3. **[Zapier](https://zapier.com)** — send hard questions to your sheet or email
-
-### 📋 Meeting-to-Action Stack
-
-1. **[Otter.ai](https://otter.ai)** — record the meeting and write every word
-2. **[Fireflies.ai](https://fireflies.ai)** — search any topic across past meetings
-3. **[Taskade](https://www.taskade.com)** — turn notes into tasks with owners
-4. **[Make](https://www.make.com)** — auto-send the summary to your apps
-
-### 🧑‍💻 Freelancer Stack
-
-1. **[Framer](https://www.framer.com)** — portfolio website that wins clients
-2. **[Chatbase](https://www.chatbase.co)** — a bot that answers client questions
-3. **[Simplified](https://simplified.com)** — posts that market your services
-4. **[Zapier](https://zapier.com)** — save new leads to a sheet by itself
+*Free-plan catch: The design step is the tightest limit: Uizard free gives 3 AI designs a month.*
 
 ## 🧰 Tools by Category
 
@@ -285,6 +430,13 @@ The full tool list also lives as open data — free to use in your own projects:
 ## 🤝 Contributing
 
 Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request, please.
+
+## 📅 Changelog
+
+- **October 26, 2026** — Reader upgrades: start-by-goal box, first-week 10-tools shelf, level tags on all stacks, free-plan catch lines, full contents index.
+- **October 26, 2026** — Grew to 65 tools in 14 categories and 17 workflow stacks, all free or freemium.
+- **October 26, 2026** — Removed the last paid tools and made the list free/freemium only, no credit card needed.
+- **October 26, 2026** — Repo launched by SaaSListy with the first tools and stacks.
 
 ---
 
