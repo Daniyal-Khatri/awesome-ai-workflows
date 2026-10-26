@@ -12,17 +12,17 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 
 **Last checked:** October 26, 2026 · **What's new:** all 17 stacks now carry copy-paste recipe cards — the actual prompt for every step.
 
-## 🗺️ Beginner Roadmap
+## Beginner Roadmap
 
 New to AI tools? Walk this path — do not browse 65 tools on day one.
 
-1. **Pick your goal** in the [Start Here box](#-start-here--pick-your-goal) below.
+1. **Pick your goal** in the [Start Here box](#start-here--pick-your-goal) below.
 2. **Start with the 5 essentials** — the box right under this roadmap.
 3. **Run your first stack** — pick a 🟢 Beginner stack and follow its steps in order.
 4. **Read its free-plan catch** before you start, so a limit never surprises you mid-job.
-5. **Then explore** the full [tools by category](#-tools-by-category) list.
+5. **Then explore** the full [tools by category](#tools-by-category) list.
 
-## ⚡ Just the 5 Best
+## Just the 5 Best
 
 No time to read? These 5 cover most beginner jobs:
 
@@ -34,21 +34,21 @@ No time to read? These 5 cover most beginner jobs:
 | [CapCut](https://www.capcut.com) | Video editing |
 | [Zapier](https://zapier.com) | Automating boring repeat work |
 
-## 📚 Contents
+## Contents
 
-- [Beginner Roadmap](#-beginner-roadmap)
-- [Just the 5 Best](#-just-the-5-best)
-- [Start Here — Pick Your Goal](#-start-here--pick-your-goal)
-- [First Week: 10 Tools](#-first-week-10-tools)
-- [Our Rules](#-our-rules)
-- [Workflow Stacks](#-workflow-stacks)
+- [Beginner Roadmap](#beginner-roadmap)
+- [Just the 5 Best](#just-the-5-best)
+- [Start Here — Pick Your Goal](#start-here--pick-your-goal)
+- [First Week: 10 Tools](#first-week-10-tools)
+- [Our Rules](#our-rules)
+- [Workflow Stacks](#workflow-stacks)
   - [Short-Form Video Stack](#short-form-video-stack)
   - [Content Writer Stack](#content-writer-stack)
   - [Online Course Stack](#online-course-stack)
   - [Podcast Stack](#podcast-stack)
   - [Student Research Stack](#student-research-stack)
   - [Job-Seeker Stack](#job-seeker-stack)
-  - [Blogger / Creator Stack](#blogger-creator-stack)
+  - [Blogger / Creator Stack](#blogger--creator-stack)
   - [Faceless YouTube Stack](#faceless-youtube-stack)
   - [Online Seller Stack](#online-seller-stack)
   - [Small-Shop Social Media Stack](#small-shop-social-media-stack)
@@ -59,8 +59,8 @@ No time to read? These 5 cover most beginner jobs:
   - [Customer Support Bot Stack](#customer-support-bot-stack)
   - [Indie Developer Stack](#indie-developer-stack)
   - [App Builder Stack](#app-builder-stack)
-- [Tools by Category](#-tools-by-category)
-  - [Writing & Chat](#writing-chat)
+- [Tools by Category](#tools-by-category)
+  - [Writing & Chat](#writing--chat)
   - [Research](#research)
   - [Image](#image)
   - [Video](#video)
@@ -71,21 +71,21 @@ No time to read? These 5 cover most beginner jobs:
   - [Website Builders](#website-builders)
   - [Marketing](#marketing)
   - [Automation](#automation)
-  - [Meetings & Notes](#meetings-notes)
+  - [Meetings & Notes](#meetings--notes)
   - [Design](#design)
-  - [Voice & Chatbots](#voice-chatbots)
-- [The Data](#-the-data)
-- [Contributing](#-contributing)
-- [Changelog](#-changelog)
+  - [Voice & Chatbots](#voice--chatbots)
+- [The Data](#the-data)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
 
-## 🎯 Start Here — Pick Your Goal
+## Start Here — Pick Your Goal
 
 | I want to… | Go to this stack |
 | --- | --- |
 | Make short videos for TikTok or Reels | [Short-Form Video Stack](#short-form-video-stack) |
 | Start a faceless YouTube channel | [Faceless YouTube Stack](#faceless-youtube-stack) |
 | Make full YouTube videos | [YouTube Creator Stack](#youtube-creator-stack) |
-| Write a blog or article | [Blogger / Creator Stack](#blogger-creator-stack) |
+| Write a blog or article | [Blogger / Creator Stack](#blogger--creator-stack) |
 | Write content for work | [Content Writer Stack](#content-writer-stack) |
 | Start a podcast | [Podcast Stack](#podcast-stack) |
 | Study or research a topic | [Student Research Stack](#student-research-stack) |
@@ -100,7 +100,7 @@ No time to read? These 5 cover most beginner jobs:
 | Code with AI help | [Indie Developer Stack](#indie-developer-stack) |
 | Build an app | [App Builder Stack](#app-builder-stack) |
 
-## ⭐ First Week: 10 Tools
+## First Week: 10 Tools
 
 New here? Start with these 10 — the easiest tools with the most generous free plans.
 
@@ -117,7 +117,7 @@ New here? Start with these 10 — the easiest tools with the most generous free 
 | [tl;dv](https://tldv.io) | Free meeting recordings and notes, no card needed | 🔓 Freemium |
 | [Zapier](https://zapier.com) | Your first automations — 100 free tasks a month | 🔓 Freemium |
 
-## ✅ Our Rules
+## Our Rules
 
 Every tool and stack on this list must pass all four:
 
@@ -128,11 +128,11 @@ Every tool and stack on this list must pass all four:
 
 **How we choose, in real numbers:** we checked **77 tools** for this list. We kept **65**. We threw out **12** — 2 were paid-only, and 10 were fake-free, trial-only, or dead (two famous ones, PlayHT and Tome, had already shut down).
 
-## 🔗 Workflow Stacks
+## Workflow Stacks
 
 Stacks are ordered **beginner first**. Each one ends with its free-plan catch — the limit to know before you start.
 
-### 🎵 Short-Form Video Stack
+### Short-Form Video Stack
 
 **Level:** 🟢 Beginner
 
@@ -147,7 +147,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Kling AI:** `A steaming cup of coffee on a wooden table, soft morning light, slow camera push-in, vertical video, no people`
 - **ElevenLabs:** paste this script and pick a warm voice: `Welcome back! Today we make the creamiest pasta in just 30 seconds.`
 
-### ✍️ Content Writer Stack
+### Content Writer Stack
 
 **Level:** 🟢 Beginner
 
@@ -162,7 +162,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Claude:** `Write a first draft of a blog post about [your topic] for beginners. Easy words. Short paragraphs. Use these facts: [paste your facts]. Give it a title and 3 sub-headings.`
 - **Notion AI:** `Make this draft shorter, fix the hard words, and suggest a better title.`
 
-### 🎓 Online Course Stack
+### Online Course Stack
 
 **Level:** 🟢 Beginner
 
@@ -179,7 +179,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Canva AI:** `A clean course slide titled "[Lesson title]" with 3 short bullet points and one simple picture of [thing]`
 - **CapCut:** edit recipe — auto-captions ON → remove silences → add the lesson title → export at 1080p.
 
-### 🎙️ Podcast Stack
+### Podcast Stack
 
 **Level:** 🟢 Beginner
 
@@ -196,7 +196,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Murf AI:** paste the script in small parts — one part per voice block — and pick the warm storyteller voice.
 - **Descript:** edit recipe — delete the filler words (um, uh) → cut the long silences → export as MP3. In Descript you edit audio by editing the text.
 
-### 🔬 Student Research Stack
+### Student Research Stack
 
 **Level:** 🟢 Beginner
 
@@ -215,7 +215,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Gamma:** `A class presentation about [your topic]. 8 slides, easy words, one image per slide. Use these notes: [paste your notes]`
 - **Rytr:** pick "Blog Section Writing" and paste: `Write a 150-word ending for a report about [your topic], friendly tone.`
 
-### 💼 Job-Seeker Stack
+### Job-Seeker Stack
 
 **Level:** 🟢 Beginner
 
@@ -232,7 +232,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Rytr:** pick "Cover Letter" and paste: `A short cover letter for [job title] at [company]. My top skills: [list]. Friendly and confident, under 200 words.`
 - **Mistral Le Chat:** `Act as the interviewer for a [job title] job. Ask me one question at a time, and give me honest feedback on each answer.`
 
-### 📝 Blogger / Creator Stack
+### Blogger / Creator Stack
 
 **Level:** 🟢 Beginner
 
@@ -251,7 +251,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Fliki:** paste your blog post, choose the short summary option, pick a warm voice, export a 60-second vertical video.
 - **Make:** automation recipe — Trigger: new post in your blog feed → Action: share the title + link to your social apps. Build it once; it shares every new post by itself.
 
-### 📺 Faceless YouTube Stack
+### Faceless YouTube Stack
 
 **Level:** 🟢 Beginner
 
@@ -267,7 +267,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Fliki:** paste your script and pick a warm, clear voice at normal speed: `Did you know [fact]? In this video, three simple tricks that [benefit].`
 - **Ideogram:** `YouTube thumbnail, bold text "5 MISTAKES", bright colors, high contrast, empty space on the right for a face`
 
-### 🛒 Online Seller Stack
+### Online Seller Stack
 
 **Level:** 🟢 Beginner
 
@@ -286,7 +286,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Durable:** answer its 3 questions (shop name, what you sell, your city) — it builds the site. Then paste in your product text and photos.
 - **Buffer:** use its AI Assistant: `Write 3 short posts for [product]: one tip, one customer benefit, one offer. 3 hashtags each.`
 
-### 🛍️ Small-Shop Social Media Stack
+### Small-Shop Social Media Stack
 
 **Level:** 🟢 Beginner
 
@@ -305,7 +305,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Kapwing:** edit recipe — upload the clip → auto-subtitles ON → resize to 9:16 → export. Subtitles matter: most people watch with the sound off.
 - **Buffer:** plan one week — 3 posts on the same days and times — and let Buffer post them while you run the shop.
 
-### 📋 Meeting-to-Action Stack
+### Meeting-to-Action Stack
 
 **Level:** 🟢 Beginner
 
@@ -322,7 +322,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Taskade:** `Turn these meeting notes into tasks. For each task give: the owner, the due date, and one clear next step. Notes: [paste the summary]`
 - **Make:** automation recipe — Trigger: new meeting summary → Action: send it to your team chat and save a copy in a folder. Build once; never forward notes by hand again.
 
-### 🎬 YouTube Creator Stack
+### YouTube Creator Stack
 
 **Level:** 🟡 Intermediate
 
@@ -339,7 +339,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Runway Gen-3:** `Cinematic shot of [your scene], slow camera move, golden light, realistic, no text`
 - **Ideogram:** `YouTube thumbnail, huge bold text "[3 WORDS]", bright background, one clear object, empty space on the left for a face`
 
-### 🏪 Small Business Marketing Stack
+### Small Business Marketing Stack
 
 **Level:** 🟡 Intermediate
 
@@ -356,7 +356,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Lumen5:** paste your post or blog text, pick a bold template, and check every stock clip it chooses really fits your product before you export.
 - **Grammarly:** final check — paste every post and ad into Grammarly and fix only the red lines. Then ship it.
 
-### 🧑‍💻 Freelancer Stack
+### Freelancer Stack
 
 **Level:** 🟡 Intermediate
 
@@ -373,7 +373,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Simplified:** `Write a LinkedIn post about a lesson I learned doing [project type]. Friendly expert tone, one hook line, 5 short lines, 3 hashtags.`
 - **Zapier:** automation recipe — Trigger: new form reply → Action: add a row to your leads sheet and send yourself a message. Build once; never lose a lead again.
 
-### 🤖 Customer Support Bot Stack
+### Customer Support Bot Stack
 
 **Level:** 🟡 Intermediate
 
@@ -388,7 +388,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Voiceflow:** test the bot with these 5 questions before launch: `How much is [product]?` · `How do I return this?` · `Where is my order?` · `Do you deliver to [city]?` · `Can I talk to a human?`
 - **Zapier:** automation recipe — Trigger: the bot cannot answer → Action: save the question to a sheet and email it to you. Check the sheet weekly and teach the bot the missing answers.
 
-### 💻 Indie Developer Stack
+### Indie Developer Stack
 
 **Level:** 🔴 Advanced
 
@@ -403,7 +403,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Replit:** press Run and test every button. Then break one small thing on purpose and read the error — that is how you learn what the code does.
 - **Claude:** `Review this code like a kind teacher. Find the bugs, explain each one in easy words, and show the fixed version: [paste your code]`
 
-### 📱 App Builder Stack
+### App Builder Stack
 
 **Level:** 🔴 Advanced
 
@@ -422,7 +422,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 - **Cursor:** `Turn this design into a working app. Keep the code simple, one feature per file, and explain your plan before you write any code.`
 - **Replit:** run it, click every button, and write down anything that breaks. Fix the list from top to bottom.
 
-## 🧰 Tools by Category
+## Tools by Category
 
 <!-- generated:tools-tables:start -->
 
@@ -563,14 +563,14 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 <!-- generated:tools-tables:end -->
 
-## 📊 The Data
+## The Data
 
 The full tool list also lives as open data — free to use in your own projects:
 
 - [`data/tools.json`](data/tools.json) — the source of truth; each entry records its pricing source (`pricing_url`) and the date it was last verified (`pricing_checked`)
 - [`data/tools.csv`](data/tools.csv) — generated from the JSON by [`scripts/generate.py`](scripts/generate.py); the tables above are generated the same way
 
-## 🏅 Listed Here? Show It
+## Listed Here? Show It
 
 Is your tool on this list? Add the badge to your README or website — it links back here:
 
@@ -588,12 +588,13 @@ Is your tool on this list? Add the badge to your README or website — it links 
 <a href="https://github.com/Daniyal-Khatri/awesome-ai-workflows"><img src="https://img.shields.io/badge/Listed_on-Awesome_AI_Workflows-8A2BE2?style=flat&logo=github" alt="Listed on Awesome AI Workflows"></a>
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request, please.
 
-## 📅 Changelog
+## Changelog
 
+- **October 26, 2026** — Fixed the table-of-contents and "Pick Your Goal" links: headings no longer start with an emoji, because GitHub builds broken anchors from emoji-led headings (extra leading hyphen, or invisible characters). The link checker in CI now fails if an anchor ever breaks again.
 - **October 26, 2026** — Data hardening audit: `data/tools.json` is now the single source of truth — `data/tools.csv` and the tables above are generated by `scripts/generate.py`, checked by `scripts/validate.py` and CI on every push and pull request. Every entry now records its pricing source link and verification date where known. Added SECURITY.md. (Field rename for dataset users: `website` → `url`, `best_for` → `use`.)
 - **October 26, 2026** — "Listed on" badge added — tools on the list can show it on their own pages.
 - **October 26, 2026** — Recipe cards finished: all 17 stacks now include the copy-paste prompt for every step.
