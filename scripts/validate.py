@@ -108,6 +108,11 @@ def main():
             errors.append(
                 f"{where}: pricing '{tool.get('pricing')}' must be Free "
                 f"or Freemium")
+        desc = str(tool.get("description", ""))
+        if len(desc) > 100:
+            errors.append(
+                f"{where}: description is {len(desc)} characters "
+                f"(max 100) — shorten it, do not truncate mid-sentence")
         if not url_ok(str(tool.get("url", ""))):
             errors.append(f"{where}: malformed url '{tool.get('url')}'")
         purl = str(tool.get("pricing_url", ""))
