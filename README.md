@@ -202,7 +202,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 1. **[Research Rabbit](https://www.researchrabbit.ai)** — find strong papers on your topic
 2. **[SciSpace](https://scispace.com)** — plain-word explanations of hard papers
-3. **[NotebookLM](https://notebooklm.google.com)** — chat with your sources and make an audio overview
+3. **[Gemini Notebook](https://notebook.google.com)** — chat with your sources and make an audio overview
 4. **[Gamma](https://gamma.app)** — turn notes into class slides
 5. **[Rytr](https://rytr.me)** — write the short report text
 
@@ -211,9 +211,18 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 **📋 Copy-paste recipes**
 - **Research Rabbit:** start with 2 papers you trust, then open the papers it links to them — that chain is your reading list.
 - **SciSpace:** `Explain this paper in easy words. What is the main finding? What method did the writers use?`
-- **NotebookLM:** `Based only on my uploaded sources, what are the 5 most important points about [your topic]?`
+- **Gemini Notebook:** `Based only on my uploaded sources, what are the 5 most important points about [your topic]?`
 - **Gamma:** `A class presentation about [your topic]. 8 slides, easy words, one image per slide. Use these notes: [paste your notes]`
 - **Rytr:** pick "Blog Section Writing" and paste: `Write a 150-word ending for a report about [your topic], friendly tone.`
+
+**Scenario — a class report on any topic, due in two days**
+
+- **Task:** go from "I have a topic" to a finished short report with slides, using only the free tools above.
+- **Before you start:** your topic, plus 2 papers or articles you already trust (Research Rabbit builds from these). No accounts beyond the free sign-ups, no credit card.
+- **Steps:** (1) Drop your 2 trusted papers into Research Rabbit and follow its chain to build a reading list. (2) Run the hardest paper through SciSpace and ask for the main finding and method in easy words. (3) Upload your sources to Gemini Notebook and pull out the 5 points your report must make. (4) Turn those points into 8 slides in Gamma. (5) Write the report's ending in Rytr, then read the whole thing once yourself — AI drafts, you decide.
+- **What you get:** a reading list, plain-word notes, an 8-slide deck, and a report draft in your own structure.
+- **Free-tier limits:** Gamma's 400 credits never refill — make the slides last, not first. SciSpace Basic gives 100 credits a month, so spend them on the hardest paper only.
+- **Alternatives on this list:** Perplexity (under Research) can replace step 1 if you have no starting papers; Canva AI (under Design) can replace Gamma for the slides.
 
 ### Job-Seeker Stack
 
@@ -236,7 +245,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 **Level:** 🟢 Beginner
 
-1. **[NotebookLM](https://notebooklm.google.com)** — collect sources and check facts
+1. **[Gemini Notebook](https://notebook.google.com)** — collect sources and check facts
 2. **[Mistral Le Chat](https://chat.mistral.ai)** — turn notes into a full blog draft
 3. **[Playground](https://playground.com)** — header and social images
 4. **[Fliki](https://fliki.ai)** — turn the post into a voiced video
@@ -245,7 +254,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 *Free-plan catch: Fliki free gives 3 credits a month and adds a watermark. Make free gives 1,000 actions a month.*
 
 **📋 Copy-paste recipes**
-- **NotebookLM:** `Based only on my uploaded sources, list the facts I must not get wrong about [topic], and 3 angles readers will love.`
+- **Gemini Notebook:** `Based only on my uploaded sources, list the facts I must not get wrong about [topic], and 3 angles readers will love.`
 - **Mistral Le Chat:** `Write a blog post about [topic] for beginners. Easy words, short paragraphs, friendly tone, one clear example in each part. Use these facts: [paste your facts]`
 - **Playground:** `A wide blog header picture about [topic], bright and clean, no text, empty space at the top for a title`
 - **Fliki:** paste your blog post, choose the short summary option, pick a warm voice, export a 60-second vertical video.
@@ -449,7 +458,7 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 | [Perplexity](https://www.perplexity.ai) | AI search that shows its sources | 🔓 Freemium | Fast research you can trust |
 | [Elicit](https://elicit.com) | Searches real research papers | 🔓 Freemium | Students and researchers |
 | [Consensus](https://consensus.app) | Answers from real studies | 🔓 Freemium | Science questions |
-| [NotebookLM](https://notebooklm.google.com) | Answers only from your own files (now Gemini Notebook) | 🔓 Freemium | Studying from set documents |
+| [Gemini Notebook](https://notebook.google.com) | Answers only from your own files | 🔓 Freemium | Studying from set documents |
 | [SciSpace](https://scispace.com) | Explains hard science papers in plain words | 🔓 Freemium | Reading many research papers |
 | [Research Rabbit](https://www.researchrabbit.ai) | Finds new papers from papers you like | 🔓 Freemium | Finding linked research fast |
 
@@ -594,6 +603,7 @@ Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Changelog
 
+- **October 26, 2026** — Easier to contribute, safer data: added a pull-request template with a validation checklist, capped tool descriptions at 100 characters in the validator, added a step-by-step scenario to the Student Research Stack, and updated NotebookLM to its new name, Gemini Notebook.
 - **October 26, 2026** — Fixed the table-of-contents and "Pick Your Goal" links: headings no longer start with an emoji, because GitHub builds broken anchors from emoji-led headings (extra leading hyphen, or invisible characters). The link checker in CI now fails if an anchor ever breaks again.
 - **October 26, 2026** — Data hardening audit: `data/tools.json` is now the single source of truth — `data/tools.csv` and the tables above are generated by `scripts/generate.py`, checked by `scripts/validate.py` and CI on every push and pull request. Every entry now records its pricing source link and verification date where known. Added SECURITY.md. (Field rename for dataset users: `website` → `url`, `best_for` → `use`.)
 - **October 26, 2026** — "Listed on" badge added — tools on the list can show it on their own pages.
