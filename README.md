@@ -8,12 +8,39 @@ Made by **[SaaSListy](https://saaslisty.com)** — a website that helps you find
 
 **Every tool on this list is Free or Freemium — you can start without a credit card. Every stack is written as steps a beginner can follow.**
 
-**Last checked:** October 26, 2026 · **What's new:** reader upgrades added — start-by-goal box, first-week shelf, level tags, and free-plan catches on every stack.
+**Cost legend:** 🆓 Free · 🔓 Freemium (real free tier) · 💳 needs a card — **you will never see 💳 on this list.**
+
+**Last checked:** October 26, 2026 · **What's new:** batch 2 — beginner roadmap, our rules in print, how-we-choose numbers, and copy-paste recipe cards on the first 5 stacks.
+
+## 🗺️ Beginner Roadmap
+
+New to AI tools? Walk this path — do not browse 65 tools on day one.
+
+1. **Pick your goal** in the [Start Here box](#-start-here--pick-your-goal) below.
+2. **Start with the 5 essentials** — the box right under this roadmap.
+3. **Run your first stack** — pick a 🟢 Beginner stack and follow its steps in order.
+4. **Read its free-plan catch** before you start, so a limit never surprises you mid-job.
+5. **Then explore** the full [tools by category](#-tools-by-category) list.
+
+## ⚡ Just the 5 Best
+
+No time to read? These 5 cover most beginner jobs:
+
+| Tool | Use it for |
+| --- | --- |
+| [ChatGPT](https://chatgpt.com) | Writing, ideas, and questions |
+| [Google AI Studio](https://aistudio.google.com) | Strong AI, fully free |
+| [Canva AI](https://www.canva.com) | Designs and social posts |
+| [CapCut](https://www.capcut.com) | Video editing |
+| [Zapier](https://zapier.com) | Automating boring repeat work |
 
 ## 📚 Contents
 
+- [Beginner Roadmap](#-beginner-roadmap)
+- [Just the 5 Best](#-just-the-5-best)
 - [Start Here — Pick Your Goal](#-start-here--pick-your-goal)
 - [First Week: 10 Tools](#-first-week-10-tools)
+- [Our Rules](#-our-rules)
 - [Workflow Stacks](#-workflow-stacks)
   - [Short-Form Video Stack](#short-form-video-stack)
   - [Content Writer Stack](#content-writer-stack)
@@ -79,16 +106,27 @@ New here? Start with these 10 — the easiest tools with the most generous free 
 
 | Tool | Why start here | Pricing |
 | --- | --- | --- |
-| [Google AI Studio](https://aistudio.google.com) | Fully free — test Google's Gemini AI in your browser | Free |
-| [ChatGPT](https://chatgpt.com) | The easiest first AI chat for writing and ideas | Freemium |
-| [Perplexity](https://www.perplexity.ai) | Research with sources you can check | Freemium |
-| [Grammarly](https://www.grammarly.com) | Clean up anything you write | Freemium |
-| [Ideogram](https://ideogram.ai) | Posters and thumbnails with clear text | Freemium |
-| [Microsoft Clipchamp](https://clipchamp.com) | Edit videos free, no watermark, up to 1080p | Freemium |
-| [CapCut](https://www.capcut.com) | The beginner video editor for TikTok and Reels | Freemium |
-| [Canva AI](https://www.canva.com) | Designs and social posts with AI help | Freemium |
-| [tl;dv](https://tldv.io) | Free meeting recordings and notes, no card needed | Freemium |
-| [Zapier](https://zapier.com) | Your first automations — 100 free tasks a month | Freemium |
+| [Google AI Studio](https://aistudio.google.com) | Fully free — test Google's Gemini AI in your browser | 🆓 Free |
+| [ChatGPT](https://chatgpt.com) | The easiest first AI chat for writing and ideas | 🔓 Freemium |
+| [Perplexity](https://www.perplexity.ai) | Research with sources you can check | 🔓 Freemium |
+| [Grammarly](https://www.grammarly.com) | Clean up anything you write | 🔓 Freemium |
+| [Ideogram](https://ideogram.ai) | Posters and thumbnails with clear text | 🔓 Freemium |
+| [Microsoft Clipchamp](https://clipchamp.com) | Edit videos free, no watermark, up to 1080p | 🔓 Freemium |
+| [CapCut](https://www.capcut.com) | The beginner video editor for TikTok and Reels | 🔓 Freemium |
+| [Canva AI](https://www.canva.com) | Designs and social posts with AI help | 🔓 Freemium |
+| [tl;dv](https://tldv.io) | Free meeting recordings and notes, no card needed | 🔓 Freemium |
+| [Zapier](https://zapier.com) | Your first automations — 100 free tasks a month | 🔓 Freemium |
+
+## ✅ Our Rules
+
+Every tool and stack on this list must pass all four:
+
+1. **Free or freemium only.** Paid-only tools are never listed.
+2. **No credit card to start.** If the free plan needs a card, the tool is out.
+3. **A beginner can finish the workflow.** If a stack is too hard to follow, it does not ship.
+4. **Dead tools get marked, not hidden.** If a tool dies or goes paid-only, we mark it ❌ dead or 💲 went paid in its table — we do not quietly delete it.
+
+**How we choose, in real numbers:** we checked **77 tools** for this list. We kept **65**. We threw out **12** — 2 were paid-only, and 10 were fake-free, trial-only, or dead (two famous ones, PlayHT and Tome, had already shut down).
 
 ## 🔗 Workflow Stacks
 
@@ -104,6 +142,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Free tiers cover the whole stack — the video and voice steps hit their free caps first, so keep clips short.*
 
+**📋 Copy-paste recipes**
+- **Suno AI:** `Upbeat pop instrumental, 30 seconds, no vocals, happy energy, for a cooking video`
+- **Kling AI:** `A steaming cup of coffee on a wooden table, soft morning light, slow camera push-in, vertical video, no people`
+- **ElevenLabs:** paste this script and pick a warm voice: `Welcome back! Today we make the creamiest pasta in just 30 seconds.`
+
 ### ✍️ Content Writer Stack
 
 **Level:** 🟢 Beginner
@@ -113,6 +156,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 3. **[Notion AI](https://www.notion.com)** — organize and polish
 
 *Free-plan catch: Free plans are enough for a few articles a week; heavy daily writing will hit free-plan caps.*
+
+**📋 Copy-paste recipes**
+- **Perplexity:** `What are the 5 biggest mistakes beginners make with [your topic]? Give me sources.`
+- **Claude:** `Write a first draft of a blog post about [your topic] for beginners. Easy words. Short paragraphs. Use these facts: [paste your facts]. Give it a title and 3 sub-headings.`
+- **Notion AI:** `Make this draft shorter, fix the hard words, and suggest a better title.`
 
 ### 🎓 Online Course Stack
 
@@ -148,6 +196,13 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 *Free-plan catch: Gamma's 400 free credits never refill — save them for the final slides. SciSpace Basic gives 100 credits a month.*
 
+**📋 Copy-paste recipes**
+- **Research Rabbit:** start with 2 papers you trust, then open the papers it links to them — that chain is your reading list.
+- **SciSpace:** `Explain this paper in easy words. What is the main finding? What method did the writers use?`
+- **NotebookLM:** `Based only on my uploaded sources, what are the 5 most important points about [your topic]?`
+- **Gamma:** `A class presentation about [your topic]. 8 slides, easy words, one image per slide. Use these notes: [paste your notes]`
+- **Rytr:** pick "Blog Section Writing" and paste: `Write a 150-word ending for a report about [your topic], friendly tone.`
+
 ### 💼 Job-Seeker Stack
 
 **Level:** 🟢 Beginner
@@ -159,6 +214,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 5. **[Mistral Le Chat](https://chat.mistral.ai)** — practice interview answers
 
 *Free-plan catch: Framer free puts your site on a Framer web address (a custom domain is paid). Poe free points reset every day.*
+
+**📋 Copy-paste recipes**
+- **Poe:** `Here is a job ad: [paste the ad]. Here are my skills: [list your skills]. Which skills match this job? What am I missing? Be honest.`
+- **Rytr:** pick "Cover Letter" and paste: `A short cover letter for [job title] at [company]. My top skills: [list]. Friendly and confident, under 200 words.`
+- **Mistral Le Chat:** `Act as the interviewer for a [job title] job. Ask me one question at a time, and give me honest feedback on each answer.`
 
 ### 📝 Blogger / Creator Stack
 
@@ -182,6 +242,11 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 4. **[Ideogram](https://ideogram.ai)** — thumbnail with clear text
 
 *Free-plan catch: InVideo free exports carry a watermark, and Fliki free gives 3 credits a month — plan one video at a time.*
+
+**📋 Copy-paste recipes**
+- **InVideo AI:** `Make a 60-second vertical video about [your topic]. Upbeat tone, bold captions, stock footage only, no face on screen.`
+- **Fliki:** paste your script and pick a warm, clear voice at normal speed: `Did you know [fact]? In this video, three simple tricks that [benefit].`
+- **Ideogram:** `YouTube thumbnail, bold text "5 MISTAKES", bright colors, high contrast, empty space on the right for a face`
 
 ### 🛒 Online Seller Stack
 
@@ -289,136 +354,136 @@ Stacks are ordered **beginner first**. Each one ends with its free-plan catch �
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [ChatGPT](https://chatgpt.com) | AI chat for writing and coding help | Freemium | Everyday writing and new ideas |
-| [Claude](https://claude.ai) | Long writing and deep thinking | Freemium | Articles, docs and analysis |
-| [Notion AI](https://www.notion.com) | AI inside your notes and docs | Freemium | Short summaries and clean notes |
-| [Grammarly](https://www.grammarly.com) | Fixes grammar and tone | Freemium | Clean, pro writing |
-| [Copy.ai](https://www.copy.ai) | Short marketing copy, fast | Freemium | Ads and social posts |
-| [Writesonic](https://writesonic.com) | Blog posts and marketing text | Freemium | Fast blog drafts |
-| [Poe](https://poe.com) | Chat with many AI models in one app | Freemium | Trying many chatbots in one place |
-| [Google AI Studio](https://aistudio.google.com) | Google's free site to test Gemini AI | Free | Testing strong AI models for free |
-| [Mistral Le Chat](https://chat.mistral.ai) | Fast AI chat from Europe (now Mistral Vibe) | Freemium | Free chat AI outside US big tech |
-| [Hugging Face](https://huggingface.co) | Big free library of AI models and demos | Freemium | Free open AI models to try |
-| [Rytr](https://rytr.me) | Simple AI writer for short texts | Freemium | Emails, ads and social posts |
+| [ChatGPT](https://chatgpt.com) | AI chat for writing and coding help | 🔓 Freemium | Everyday writing and new ideas |
+| [Claude](https://claude.ai) | Long writing and deep thinking | 🔓 Freemium | Articles, docs and analysis |
+| [Notion AI](https://www.notion.com) | AI inside your notes and docs | 🔓 Freemium | Short summaries and clean notes |
+| [Grammarly](https://www.grammarly.com) | Fixes grammar and tone | 🔓 Freemium | Clean, pro writing |
+| [Copy.ai](https://www.copy.ai) | Short marketing copy, fast | 🔓 Freemium | Ads and social posts |
+| [Writesonic](https://writesonic.com) | Blog posts and marketing text | 🔓 Freemium | Fast blog drafts |
+| [Poe](https://poe.com) | Chat with many AI models in one app | 🔓 Freemium | Trying many chatbots in one place |
+| [Google AI Studio](https://aistudio.google.com) | Google's free site to test Gemini AI | 🆓 Free | Testing strong AI models for free |
+| [Mistral Le Chat](https://chat.mistral.ai) | Fast AI chat from Europe (now Mistral Vibe) | 🔓 Freemium | Free chat AI outside US big tech |
+| [Hugging Face](https://huggingface.co) | Big free library of AI models and demos | 🔓 Freemium | Free open AI models to try |
+| [Rytr](https://rytr.me) | Simple AI writer for short texts | 🔓 Freemium | Emails, ads and social posts |
 
 ### Research
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Perplexity](https://www.perplexity.ai) | AI search that shows its sources | Freemium | Fast research you can trust |
-| [Elicit](https://elicit.com) | Searches real research papers | Freemium | Students and researchers |
-| [Consensus](https://consensus.app) | Answers from real studies | Freemium | Science questions |
-| [NotebookLM](https://notebooklm.google.com) | Answers only from your own files (now Gemini Notebook) | Freemium | Studying from set documents |
-| [SciSpace](https://scispace.com) | Explains hard science papers in plain words | Freemium | Reading many research papers |
-| [Research Rabbit](https://www.researchrabbit.ai) | Finds new papers from papers you like | Freemium | Finding linked research fast |
+| [Perplexity](https://www.perplexity.ai) | AI search that shows its sources | 🔓 Freemium | Fast research you can trust |
+| [Elicit](https://elicit.com) | Searches real research papers | 🔓 Freemium | Students and researchers |
+| [Consensus](https://consensus.app) | Answers from real studies | 🔓 Freemium | Science questions |
+| [NotebookLM](https://notebooklm.google.com) | Answers only from your own files (now Gemini Notebook) | 🔓 Freemium | Studying from set documents |
+| [SciSpace](https://scispace.com) | Explains hard science papers in plain words | 🔓 Freemium | Reading many research papers |
+| [Research Rabbit](https://www.researchrabbit.ai) | Finds new papers from papers you like | 🔓 Freemium | Finding linked research fast |
 
 ### Image
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Recraft AI](https://www.recraft.ai) | Pictures for design work | Freemium | Vector art and brand work |
-| [Leonardo AI](https://leonardo.ai) | AI art and game assets | Freemium | Game art and images |
-| [Ideogram](https://ideogram.ai) | Pictures with clear text | Freemium | Posters and logos with words |
-| [Adobe Firefly](https://firefly.adobe.com) | Safe AI images for brands | Freemium | Work art you can sell |
-| [Canva AI](https://www.canva.com) | Designs with AI help | Freemium | Posters and social posts |
-| [Microsoft Designer](https://designer.microsoft.com) | Makes pictures and ready designs for posts | Freemium | Free pictures and simple designs |
-| [Playground](https://playground.com) | Easy AI image maker with ready styles | Freemium | Quick AI art for free |
-| [Krea AI](https://www.krea.ai) | Make and fix images with top AI models | Freemium | Fast image ideas and upscaling |
+| [Recraft AI](https://www.recraft.ai) | Pictures for design work | 🔓 Freemium | Vector art and brand work |
+| [Leonardo AI](https://leonardo.ai) | AI art and game assets | 🔓 Freemium | Game art and images |
+| [Ideogram](https://ideogram.ai) | Pictures with clear text | 🔓 Freemium | Posters and logos with words |
+| [Adobe Firefly](https://firefly.adobe.com) | Safe AI images for brands | 🔓 Freemium | Work art you can sell |
+| [Canva AI](https://www.canva.com) | Designs with AI help | 🔓 Freemium | Posters and social posts |
+| [Microsoft Designer](https://designer.microsoft.com) | Makes pictures and ready designs for posts | 🔓 Freemium | Free pictures and simple designs |
+| [Playground](https://playground.com) | Easy AI image maker with ready styles | 🔓 Freemium | Quick AI art for free |
+| [Krea AI](https://www.krea.ai) | Make and fix images with top AI models | 🔓 Freemium | Fast image ideas and upscaling |
 
 ### Video
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Runway Gen-3](https://runwayml.com) | Make videos from text or pictures | Freemium | Film-style clips and ads |
-| [Kling AI](https://klingai.com) | Real-looking AI videos | Freemium | Short social videos |
-| [CapCut](https://www.capcut.com) | Edit videos with AI help | Freemium | TikTok and Reels editing |
-| [Pika](https://pika.art) | Fun short AI videos | Freemium | Creative clips |
-| [HeyGen](https://www.heygen.com) | Videos with an AI face that talks | Freemium | Talking-head videos |
-| [Lumen5](https://lumen5.com) | Turns blog posts into videos | Freemium | Promo videos |
-| [Microsoft Clipchamp](https://clipchamp.com) | Simple video editor from Microsoft | Freemium | Free videos with no watermark |
-| [Kapwing](https://www.kapwing.com) | Online video editor with AI subtitles | Freemium | Captioning short videos |
-| [VEED](https://www.veed.io) | Online video studio with subtitles and AI voices | Freemium | Captioned videos, fast |
-| [InVideo AI](https://invideo.io) | Makes a full video from one text idea | Freemium | Faceless videos and ads |
+| [Runway Gen-3](https://runwayml.com) | Make videos from text or pictures | 🔓 Freemium | Film-style clips and ads |
+| [Kling AI](https://klingai.com) | Real-looking AI videos | 🔓 Freemium | Short social videos |
+| [CapCut](https://www.capcut.com) | Edit videos with AI help | 🔓 Freemium | TikTok and Reels editing |
+| [Pika](https://pika.art) | Fun short AI videos | 🔓 Freemium | Creative clips |
+| [HeyGen](https://www.heygen.com) | Videos with an AI face that talks | 🔓 Freemium | Talking-head videos |
+| [Lumen5](https://lumen5.com) | Turns blog posts into videos | 🔓 Freemium | Promo videos |
+| [Microsoft Clipchamp](https://clipchamp.com) | Simple video editor from Microsoft | 🔓 Freemium | Free videos with no watermark |
+| [Kapwing](https://www.kapwing.com) | Online video editor with AI subtitles | 🔓 Freemium | Captioning short videos |
+| [VEED](https://www.veed.io) | Online video studio with subtitles and AI voices | 🔓 Freemium | Captioned videos, fast |
+| [InVideo AI](https://invideo.io) | Makes a full video from one text idea | 🔓 Freemium | Faceless videos and ads |
 
 ### Code
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Cursor](https://cursor.com) | Code editor with AI | Freemium | Building full projects |
-| [Replit](https://replit.com) | Build apps in your browser | Freemium | Beginners and quick apps |
-| [v0](https://v0.dev) | Makes web pages from words | Freemium | Fast page designs |
-| [Windsurf](https://windsurf.com) | Code editor with an AI agent (now Devin Desktop) | Freemium | AI coding with a strong free plan |
-| [Tabnine](https://www.tabnine.com) | AI code helper that keeps code private | Freemium | Private code suggestions |
-| [Kiro](https://kiro.dev) | AI code editor that plans before it builds | Freemium | Planned, well-documented coding |
+| [Cursor](https://cursor.com) | Code editor with AI | 🔓 Freemium | Building full projects |
+| [Replit](https://replit.com) | Build apps in your browser | 🔓 Freemium | Beginners and quick apps |
+| [v0](https://v0.dev) | Makes web pages from words | 🔓 Freemium | Fast page designs |
+| [Windsurf](https://windsurf.com) | Code editor with an AI agent (now Devin Desktop) | 🔓 Freemium | AI coding with a strong free plan |
+| [Tabnine](https://www.tabnine.com) | AI code helper that keeps code private | 🔓 Freemium | Private code suggestions |
+| [Kiro](https://kiro.dev) | AI code editor that plans before it builds | 🔓 Freemium | Planned, well-documented coding |
 
 ### Audio
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [ElevenLabs](https://elevenlabs.io) | Real-sounding AI voices | Freemium | Voiceovers and narration |
-| [Suno AI](https://suno.com) | Full songs from a text prompt | Freemium | Music for videos |
-| [Murf AI](https://murf.ai) | Studio-style voiceovers | Freemium | Ads and lessons |
-| [Udio](https://www.udio.com) | Songs from a text prompt | Freemium | New music ideas |
-| [Descript](https://www.descript.com) | Edit audio by editing text | Freemium | Podcasts and interviews |
-| [NaturalReader](https://www.naturalreaders.com) | Reads documents and pages out loud | Freemium | Learning by listening |
-| [AIVA](https://www.aiva.ai) | AI music maker in 250+ styles | Freemium | Background music for videos |
-| [Fliki](https://fliki.ai) | Turns text into voiced videos | Freemium | Voiced videos without recording |
+| [ElevenLabs](https://elevenlabs.io) | Real-sounding AI voices | 🔓 Freemium | Voiceovers and narration |
+| [Suno AI](https://suno.com) | Full songs from a text prompt | 🔓 Freemium | Music for videos |
+| [Murf AI](https://murf.ai) | Studio-style voiceovers | 🔓 Freemium | Ads and lessons |
+| [Udio](https://www.udio.com) | Songs from a text prompt | 🔓 Freemium | New music ideas |
+| [Descript](https://www.descript.com) | Edit audio by editing text | 🔓 Freemium | Podcasts and interviews |
+| [NaturalReader](https://www.naturalreaders.com) | Reads documents and pages out loud | 🔓 Freemium | Learning by listening |
+| [AIVA](https://www.aiva.ai) | AI music maker in 250+ styles | 🔓 Freemium | Background music for videos |
+| [Fliki](https://fliki.ai) | Turns text into voiced videos | 🔓 Freemium | Voiced videos without recording |
 
 ### Productivity
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Taskade](https://www.taskade.com) | Tasks, notes and AI agents in one app | Freemium | Small teams and job tracking |
+| [Taskade](https://www.taskade.com) | Tasks, notes and AI agents in one app | 🔓 Freemium | Small teams and job tracking |
 
 ### Presentations
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Gamma](https://gamma.app) | Builds slide decks from one topic line | Freemium | Good-looking decks in minutes |
-| [SlidesAI](https://www.slidesai.io) | Turns text into slides in Google Slides | Freemium | Students and teachers |
+| [Gamma](https://gamma.app) | Builds slide decks from one topic line | 🔓 Freemium | Good-looking decks in minutes |
+| [SlidesAI](https://www.slidesai.io) | Turns text into slides in Google Slides | 🔓 Freemium | Students and teachers |
 
 ### Website Builders
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Framer](https://www.framer.com) | Build modern websites with AI help, no code | Freemium | Pretty sites and portfolios |
-| [Durable](https://durable.com) | AI builds a small business website in seconds | Freemium | A website today for small shops |
+| [Framer](https://www.framer.com) | Build modern websites with AI help, no code | 🔓 Freemium | Pretty sites and portfolios |
+| [Durable](https://durable.com) | AI builds a small business website in seconds | 🔓 Freemium | A website today for small shops |
 
 ### Marketing
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Simplified](https://simplified.com) | Writing, design and social posts in one app | Freemium | All marketing in one place |
-| [Buffer](https://buffer.com) | Plan and post to social media with AI help | Freemium | Posting to a few social accounts |
+| [Simplified](https://simplified.com) | Writing, design and social posts in one app | 🔓 Freemium | All marketing in one place |
+| [Buffer](https://buffer.com) | Plan and post to social media with AI help | 🔓 Freemium | Posting to a few social accounts |
 
 ### Automation
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Zapier](https://zapier.com) | Connects apps so work moves by itself | Freemium | Easy automation, no code |
-| [Make](https://www.make.com) | Draw automations and connect apps visually | Freemium | Bigger, cheaper automations |
+| [Zapier](https://zapier.com) | Connects apps so work moves by itself | 🔓 Freemium | Easy automation, no code |
+| [Make](https://www.make.com) | Draw automations and connect apps visually | 🔓 Freemium | Bigger, cheaper automations |
 
 ### Meetings & Notes
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Otter.ai](https://otter.ai) | Joins meetings and writes down every word | Freemium | Automatic meeting notes |
-| [Fireflies.ai](https://fireflies.ai) | Records meetings and makes them searchable | Freemium | Teams with many calls |
-| [tl;dv](https://tldv.io) | Records calls and shares the best clips | Freemium | Sales and support call clips |
+| [Otter.ai](https://otter.ai) | Joins meetings and writes down every word | 🔓 Freemium | Automatic meeting notes |
+| [Fireflies.ai](https://fireflies.ai) | Records meetings and makes them searchable | 🔓 Freemium | Teams with many calls |
+| [tl;dv](https://tldv.io) | Records calls and shares the best clips | 🔓 Freemium | Sales and support call clips |
 
 ### Design
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Figma](https://www.figma.com) | Design apps and websites with your team | Freemium | Product design with AI help |
-| [Uizard](https://uizard.io) | Turns ideas or sketches into app designs | Freemium | Quick app mockups |
+| [Figma](https://www.figma.com) | Design apps and websites with your team | 🔓 Freemium | Product design with AI help |
+| [Uizard](https://uizard.io) | Turns ideas or sketches into app designs | 🔓 Freemium | Quick app mockups |
 
 ### Voice & Chatbots
 
 | Tool | What it does | Pricing | Best for |
 | --- | --- | --- | --- |
-| [Chatbase](https://www.chatbase.co) | Build a chatbot from your own files | Freemium | Support chatbot for your site |
-| [Voiceflow](https://www.voiceflow.com) | Drag-and-drop builder for chat and voice bots | Freemium | Testing customer chat bots |
+| [Chatbase](https://www.chatbase.co) | Build a chatbot from your own files | 🔓 Freemium | Support chatbot for your site |
+| [Voiceflow](https://www.voiceflow.com) | Drag-and-drop builder for chat and voice bots | 🔓 Freemium | Testing customer chat bots |
 
 ## 📊 The Data
 
@@ -433,6 +498,7 @@ Know a good tool or workflow? Add it — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 📅 Changelog
 
+- **October 26, 2026** — Batch 2: beginner roadmap, just-the-5-best box, cost legend (🆓/🔓), our rules and how-we-choose numbers in print, copy-paste recipe cards on 5 stacks.
 - **October 26, 2026** — Reader upgrades: start-by-goal box, first-week 10-tools shelf, level tags on all stacks, free-plan catch lines, full contents index.
 - **October 26, 2026** — Grew to 65 tools in 14 categories and 17 workflow stacks, all free or freemium.
 - **October 26, 2026** — Removed the last paid tools and made the list free/freemium only, no credit card needed.

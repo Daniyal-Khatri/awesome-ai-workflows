@@ -33,5 +33,6 @@ Stacks are the heart of this repo. A good stack:
 - Keep descriptions short, honest and neutral — no marketing hype.
 - Tools must be live and publicly available.
 - Free or freemium only — no paid-only tools, and no free plan that needs a credit card to start.
+- If a listed tool dies or goes paid-only, mark it ❌ dead or 💲 went paid in the tables instead of deleting it quietly, and note it in the changelog.
 
 Maintained by [SaaSListy](https://saaslisty.com).
