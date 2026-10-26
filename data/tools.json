@@ -222,5 +222,301 @@
     "pricing": "Freemium",
     "description": "Edit audio by editing text",
     "best_for": "Podcasts and interviews"
+  },
+  {
+    "name": "Poe",
+    "category": "Writing",
+    "website": "https://poe.com",
+    "pricing": "Freemium",
+    "description": "Chat with many AI models in one app",
+    "best_for": "Trying many chatbots in one place"
+  },
+  {
+    "name": "Google AI Studio",
+    "category": "Writing",
+    "website": "https://aistudio.google.com",
+    "pricing": "Free",
+    "description": "Google's free site to test Gemini AI",
+    "best_for": "Testing strong AI models for free"
+  },
+  {
+    "name": "Mistral Le Chat",
+    "category": "Writing",
+    "website": "https://chat.mistral.ai",
+    "pricing": "Freemium",
+    "description": "Fast AI chat from Europe (now Mistral Vibe)",
+    "best_for": "Free chat AI outside US big tech"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "Writing",
+    "website": "https://huggingface.co",
+    "pricing": "Freemium",
+    "description": "Big free library of AI models and demos",
+    "best_for": "Free open AI models to try"
+  },
+  {
+    "name": "Rytr",
+    "category": "Writing",
+    "website": "https://rytr.me",
+    "pricing": "Freemium",
+    "description": "Simple AI writer for short texts",
+    "best_for": "Emails, ads and social posts"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "Research",
+    "website": "https://notebooklm.google.com",
+    "pricing": "Freemium",
+    "description": "Answers only from your own files (now Gemini Notebook)",
+    "best_for": "Studying from set documents"
+  },
+  {
+    "name": "SciSpace",
+    "category": "Research",
+    "website": "https://scispace.com",
+    "pricing": "Freemium",
+    "description": "Explains hard science papers in plain words",
+    "best_for": "Reading many research papers"
+  },
+  {
+    "name": "Research Rabbit",
+    "category": "Research",
+    "website": "https://www.researchrabbit.ai",
+    "pricing": "Freemium",
+    "description": "Finds new papers from papers you like",
+    "best_for": "Finding linked research fast"
+  },
+  {
+    "name": "Microsoft Designer",
+    "category": "Image",
+    "website": "https://designer.microsoft.com",
+    "pricing": "Freemium",
+    "description": "Makes pictures and ready designs for posts",
+    "best_for": "Free pictures and simple designs"
+  },
+  {
+    "name": "Playground",
+    "category": "Image",
+    "website": "https://playground.com",
+    "pricing": "Freemium",
+    "description": "Easy AI image maker with ready styles",
+    "best_for": "Quick AI art for free"
+  },
+  {
+    "name": "Krea AI",
+    "category": "Image",
+    "website": "https://www.krea.ai",
+    "pricing": "Freemium",
+    "description": "Make and fix images with top AI models",
+    "best_for": "Fast image ideas and upscaling"
+  },
+  {
+    "name": "Microsoft Clipchamp",
+    "category": "Video",
+    "website": "https://clipchamp.com",
+    "pricing": "Freemium",
+    "description": "Simple video editor from Microsoft",
+    "best_for": "Free videos with no watermark"
+  },
+  {
+    "name": "Kapwing",
+    "category": "Video",
+    "website": "https://www.kapwing.com",
+    "pricing": "Freemium",
+    "description": "Online video editor with AI subtitles",
+    "best_for": "Captioning short videos"
+  },
+  {
+    "name": "VEED",
+    "category": "Video",
+    "website": "https://www.veed.io",
+    "pricing": "Freemium",
+    "description": "Online video studio with subtitles and AI voices",
+    "best_for": "Captioned videos, fast"
+  },
+  {
+    "name": "InVideo AI",
+    "category": "Video",
+    "website": "https://invideo.io",
+    "pricing": "Freemium",
+    "description": "Makes a full video from one text idea",
+    "best_for": "Faceless videos and ads"
+  },
+  {
+    "name": "Windsurf",
+    "category": "Code",
+    "website": "https://windsurf.com",
+    "pricing": "Freemium",
+    "description": "Code editor with an AI agent (now Devin Desktop)",
+    "best_for": "AI coding with a strong free plan"
+  },
+  {
+    "name": "Tabnine",
+    "category": "Code",
+    "website": "https://www.tabnine.com",
+    "pricing": "Freemium",
+    "description": "AI code helper that keeps code private",
+    "best_for": "Private code suggestions"
+  },
+  {
+    "name": "Kiro",
+    "category": "Code",
+    "website": "https://kiro.dev",
+    "pricing": "Freemium",
+    "description": "AI code editor that plans before it builds",
+    "best_for": "Planned, well-documented coding"
+  },
+  {
+    "name": "NaturalReader",
+    "category": "Audio",
+    "website": "https://www.naturalreaders.com",
+    "pricing": "Freemium",
+    "description": "Reads documents and pages out loud",
+    "best_for": "Learning by listening"
+  },
+  {
+    "name": "AIVA",
+    "category": "Audio",
+    "website": "https://www.aiva.ai",
+    "pricing": "Freemium",
+    "description": "AI music maker in 250+ styles",
+    "best_for": "Background music for videos"
+  },
+  {
+    "name": "Fliki",
+    "category": "Audio",
+    "website": "https://fliki.ai",
+    "pricing": "Freemium",
+    "description": "Turns text into voiced videos",
+    "best_for": "Voiced videos without recording"
+  },
+  {
+    "name": "Taskade",
+    "category": "Productivity",
+    "website": "https://www.taskade.com",
+    "pricing": "Freemium",
+    "description": "Tasks, notes and AI agents in one app",
+    "best_for": "Small teams and job tracking"
+  },
+  {
+    "name": "Gamma",
+    "category": "Presentations",
+    "website": "https://gamma.app",
+    "pricing": "Freemium",
+    "description": "Builds slide decks from one topic line",
+    "best_for": "Good-looking decks in minutes"
+  },
+  {
+    "name": "SlidesAI",
+    "category": "Presentations",
+    "website": "https://www.slidesai.io",
+    "pricing": "Freemium",
+    "description": "Turns text into slides in Google Slides",
+    "best_for": "Students and teachers"
+  },
+  {
+    "name": "Framer",
+    "category": "Websites",
+    "website": "https://www.framer.com",
+    "pricing": "Freemium",
+    "description": "Build modern websites with AI help, no code",
+    "best_for": "Pretty sites and portfolios"
+  },
+  {
+    "name": "Durable",
+    "category": "Websites",
+    "website": "https://durable.com",
+    "pricing": "Freemium",
+    "description": "AI builds a small business website in seconds",
+    "best_for": "A website today for small shops"
+  },
+  {
+    "name": "Simplified",
+    "category": "Marketing",
+    "website": "https://simplified.com",
+    "pricing": "Freemium",
+    "description": "Writing, design and social posts in one app",
+    "best_for": "All marketing in one place"
+  },
+  {
+    "name": "Buffer",
+    "category": "Marketing",
+    "website": "https://buffer.com",
+    "pricing": "Freemium",
+    "description": "Plan and post to social media with AI help",
+    "best_for": "Posting to a few social accounts"
+  },
+  {
+    "name": "Zapier",
+    "category": "Automation",
+    "website": "https://zapier.com",
+    "pricing": "Freemium",
+    "description": "Connects apps so work moves by itself",
+    "best_for": "Easy automation, no code"
+  },
+  {
+    "name": "Make",
+    "category": "Automation",
+    "website": "https://www.make.com",
+    "pricing": "Freemium",
+    "description": "Draw automations and connect apps visually",
+    "best_for": "Bigger, cheaper automations"
+  },
+  {
+    "name": "Otter.ai",
+    "category": "Meetings",
+    "website": "https://otter.ai",
+    "pricing": "Freemium",
+    "description": "Joins meetings and writes down every word",
+    "best_for": "Automatic meeting notes"
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "Meetings",
+    "website": "https://fireflies.ai",
+    "pricing": "Freemium",
+    "description": "Records meetings and makes them searchable",
+    "best_for": "Teams with many calls"
+  },
+  {
+    "name": "tl;dv",
+    "category": "Meetings",
+    "website": "https://tldv.io",
+    "pricing": "Freemium",
+    "description": "Records calls and shares the best clips",
+    "best_for": "Sales and support call clips"
+  },
+  {
+    "name": "Figma",
+    "category": "Design",
+    "website": "https://www.figma.com",
+    "pricing": "Freemium",
+    "description": "Design apps and websites with your team",
+    "best_for": "Product design with AI help"
+  },
+  {
+    "name": "Uizard",
+    "category": "Design",
+    "website": "https://uizard.io",
+    "pricing": "Freemium",
+    "description": "Turns ideas or sketches into app designs",
+    "best_for": "Quick app mockups"
+  },
+  {
+    "name": "Chatbase",
+    "category": "Chatbots",
+    "website": "https://www.chatbase.co",
+    "pricing": "Freemium",
+    "description": "Build a chatbot from your own files",
+    "best_for": "Support chatbot for your site"
+  },
+  {
+    "name": "Voiceflow",
+    "category": "Chatbots",
+    "website": "https://www.voiceflow.com",
+    "pricing": "Freemium",
+    "description": "Drag-and-drop builder for chat and voice bots",
+    "best_for": "Testing customer chat bots"
   }
 ]
