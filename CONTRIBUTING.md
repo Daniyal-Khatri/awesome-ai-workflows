@@ -11,7 +11,7 @@ Thanks for helping grow this list. Contributions are welcome — one tool or one
    - `data/tools.csv`
 3. Use this format for every entry:
    - **name** — the tool's real name
-   - **category** — Writing, Research, Image, Video, Code or Audio
+   - **category** — Writing, Research, Image, Video, Code, Audio, Productivity, Presentations, Websites, Marketing, Automation, Meetings, Design or Chatbots
    - **website** — the official website only (no affiliate or referral links)
    - **pricing** — Free or Freemium only. Paid-only tools are not accepted, and the free plan must work without a credit card.
    - **description** — one short line on what it does
