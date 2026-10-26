@@ -13,7 +13,7 @@ Thanks for helping grow this list. Contributions are welcome — one tool or one
    - **name** — the tool's real name
    - **category** — Writing, Research, Image, Video, Code or Audio
    - **website** — the official website only (no affiliate or referral links)
-   - **pricing** — Free, Freemium or Paid (be honest)
+   - **pricing** — Free or Freemium only. Paid-only tools are not accepted, and the free plan must work without a credit card.
    - **description** — one short line on what it does
    - **best_for** — one short line on who should use it
 4. Open a pull request with a clear title, e.g. `Add <Tool Name> to Image`.
@@ -32,5 +32,6 @@ Stacks are the heart of this repo. A good stack:
 - No duplicate tools.
 - Keep descriptions short, honest and neutral — no marketing hype.
 - Tools must be live and publicly available.
+- Free or freemium only — no paid-only tools, and no free plan that needs a credit card to start.
 
 Maintained by [SaaSListy](https://saaslisty.com).
